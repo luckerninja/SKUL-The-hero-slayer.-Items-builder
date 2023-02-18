@@ -1,0 +1,272 @@
+{
+    "inscriptions": [
+        {
+            "name": "Absolute Zero",
+            "effects": {
+                "1": "Normal attacks causes ice to erupt from the ground and Freeze enemies. (Cooldown: 15 Seconds)",
+                "2": "Increases Freeze duration by 2 seconds.",
+                "4": "Increases number of hits required to remove Freeze from enemies by 3. When Freeze is removed, enemies receive 15% amplified damage for 5 seconds."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/f/ff/Maxed_Absolute_Zero.png"
+        },
+        {
+            "name": "Antique",
+            "effects": {
+                "2": "Increases Max HP by 35.",
+                "4": "Take 45% reduced damage when your HP is at 70% or above."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/9/9f/Maxed_Antique.png"
+        },
+        {
+            "name": "Arms",
+            "effects": {
+                "2": "Increases Physical Attack by 45%.",
+                "4": "Normal Attacks let you swing armaments to deal Physical Damage. (Cooldown: 4 Seconds)",
+                "6": "The 3th armament is improved."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/4/43/Maxed_Arms.png"
+        },
+        {
+            "name": "Arson",
+            "effects": {
+                "1": "Using a skill launches a fireball that Burns nearby enemies. (Cooldown: 10 seconds)",
+                "2": "Damage dealt to other enemies by a Burning enemy amplified by 50%.",
+                "4": "At the end of Burn duration, a firestorm erupts, dealing Magic Damage with a 30% chance to Burn enemies in a large area. (Cooldown: 1 second)"
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/7/7d/Maxed_Arson.png"
+        },
+        {
+            "name": "Artifact",
+            "effects": {
+                "2": "Increase Magic attack by 45%.",
+                "4": "Meteors strike random nearby enemies every 6 seconds and deal Magic Damage.",
+                "6": "The 5th meteor is replaced by multiple meteors."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/d/d3/Maxed_Artifact.png"
+        },
+        {
+            "name": "Bone",
+            "effects": {
+                "2": "Swapping for the 5th time refreshes swap cooldown and makes you invulnerable for two (2) seconds."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/e/ed/Maxed_Bone.png"
+        },
+        {
+            "name": "Brawl",
+            "effects": {
+                "2": "Releases a Shockwave when attacking, dealing damage to nearby enemies based on the higher Attack Power between Physical and Magic. (Cooldown: 5 seconds)",
+                "4": "The shockwave's cooldown is reduced by 1 second for every enemy nearby (Stacks up to 4 seconds)"
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/c/c5/Maxed_Brawl.png"
+        },
+        {
+            "name": "Courage",
+            "effects": {
+                "2": "Physical attack is amplified by 20%.",
+                "4": "Dealing Physical damage to an enemy amplifies your Physical attack by 45% for 10 seconds. (Cooldown: 20 seconds)"
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/8/82/Maxed_Courage.png"
+        },
+        {
+            "name": "Dizziness",
+            "effects": {
+                "1": "Using a skill causes a shockwave that stun nearby enemies. (Cooldown: 18 seconds)",
+                "2": "Increases stun duration by 1 second.",
+                "4": "Amplifies damage to stunned enemies by 50%."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/3/3c/Maxed_Dizziness.png"
+        },
+        {
+            "name": "Duel",
+            "effects": {
+                "2": "Damage is amplified by 1.5% when attacking an enemy. (Stacks up to 15%) This effect applies to only one enemy at a time.",
+                "4": "Amplifies damage dealt to enemies by up to 30%."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/6/61/Maxed_Duel.png"
+        },
+
+        {
+            "name": "Excessive Bleeding",
+            "effects": {
+                "1": "Perform normal attacks to slash and inflict Wound on enemies in front of you. (Cooldown: 3 seconds)",
+                "2": "Amplifies Bleed damage by 60%.",
+                "4": "Bleed becomes Critical hits."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/f/f7/Maxed_Excessive_Bleeding.png"
+        },
+        {
+            "name": "Execute",
+            "effects": {
+                "2": "Leave marks on enemies at 30% HP or below. (20% for adventurers and bosses). Damage dealt to marked enemies is amplified by 60%.",
+                "4": "All attacks made against marked enemies turn into Critical hits."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/5/57/Maxed_Execute.png"
+        },
+        {
+            "name": "Fairy Tale",
+            "effects": {
+                "3": "Each Spirit you own increases cooldown speed of all spirits by 25%.",
+                "5": "Summon Spirit King Oberon."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/3/32/Maxed_Fairy_Tale.png"
+        },
+        {
+            "name": "Fortress",
+            "effects": {
+                "2": "Gain a 10 HP barrier every 60 seconds.",
+                "4": "Take 40% reduced damage while HP barrier is active."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/a/a0/Maxed_Fortress.png"
+        },
+        {
+            "name": "Heirloom",
+            "effects": {
+                "2": "Turn into a mirage which lets you evade damage once. (Cooldown: 40 seconds)",
+                "4": "Damage dealt to enemies is amplified by 45% while the mirage is active."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/7/7a/Maxed_Heirloom.png"
+        },
+
+
+
+        {
+            "name": "Heritage",
+            "effects": {
+                "2": "Quintessence cooldown speed is increased by 65%.",
+                "4": "Damage dealt by using quintessences is amplified by 40%."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/f/f2/Maxed_Heritage.png"
+        },
+        {
+            "name": "Hidden Blade",
+            "effects": {
+                "2": "Increases skill cooldown speed by 50%.",
+                "4": "Skill damage is amplified by 30%."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/5/54/Maxed_Hidden_Blade.png"
+        },
+        {
+            "name": "Mana Cycle",
+            "effects": {
+                "2": "Damage is amplified by 1.5% when attacking an enemy. (Stacks up to 15%) This effect applies to only one enemy at a time.",
+                "4": "Amplifies damage dealt to enemies by up to 30%."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/4/49/Maxed_Mana_Cycle.png"
+        },
+
+        {
+            "name": "Manatech",
+            "effects": {
+                "2": "Drop Manatech parts when using a skill. Picking Manatech components reduces all cooldown by 1 second.",
+                "4": "Skill casting speed is increased by 100%."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/c/c3/Maxed_Manatech.png"
+        },
+        {
+            "name": "Masterpiece",
+            "effects": {
+                "3": "Dealing Physical Damage to an enemy increases your Physical Attack by 50% for 10 seconds. (Cooldown: 20 seconds)",
+                "5": "Items that get Masterpiece inscriptions are improved."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/d/d9/Maxed_Masterpiece.png"
+        },
+        {
+            "name": "Misfortune",
+            "effects": {
+                "2": "Increases Crit Rate by 15%.",
+                "4": "Critical hits turn all attacks into Critical hits for 7 seconds. (Cooldown: 25 seconds)"
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/1/15/Maxed_Misfortune.png"
+        },
+        {
+            "name": "Mutant",
+            "effects": {
+                "2": "Increases swap cooldown speed by 45%.",
+                "4": "Swap skill damage is amplified by 35%."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/1/1f/Maxed_Mutant.png"
+        },
+        {
+            "name": "Poisoning",
+            "effects": {
+                "1": "Using a skill releases toxin that Poisons nearby enemies. (Cooldown: 8 seconds)",
+                "2": "The interval between damage ticks is decreased.",
+                "4": "The interval between damage ticks is decreased even more."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/1/19/Maxed_Poisoning.png"
+        },
+
+
+        {
+            "name": "Rapidity",
+            "effects": {
+                "2": "Increases Attack Speed by 30%.",
+                "4": "Normal attack damage is amplified by 30%."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/a/a9/Maxed_Rapidity.png"
+        },
+        {
+            "name": "Relic",
+            "effects": {
+                "2": "Changing maps restores 10% of your lost HP.",
+                "4": "When recovering HP, calls down Retribution for 10 seconds, dealing additional damage based on the higher attack power between Physical and Magic. This effect can trigger on the same target every 1 seconds."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/0/01/Maxed_Relic.png"
+        },
+        {
+            "name": "Revenge",
+            "effects": {
+                "2": "Attacking an enemy within 1 second of taking damage triggers Revenge dealing additional damage based on the higher Attack Power between Physical and Magic and recovers 50% of damage taken. (Cooldown: 8 Seconds)",
+                "4": "Revenge increases Attack Speed and skill cooldown speed by 50% for 8 seconds."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/2/2d/Maxed_Revenge.png"
+        },
+        {
+            "name": "Soar",
+            "effects": {
+                "2": "Crit Rate increases by 20% while in midair.",
+                "4": "Damage dealt to enemies in amplified by 40% while in midair."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/4/40/Maxed_Soar.png"
+        },
+        {
+            "name": "Spoils",
+            "effects": {
+                "2": "Plant a flag of Carleon on the ground when swapping. Standing near the flag increases your Physical attack and Magic attack by 35%."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/1/15/Maxed_Spoils.png"
+        },
+
+        {
+            "name": "Strike",
+            "effects": {
+                "2": "Increases Crit damage by 20%.",
+                "4": "Critical hits have a 30% chance to turn into even deadlier strikes."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/1/1d/Maxed_Strike.png"
+        },
+        {
+            "name": "Sun and Moon",
+            "effects": {
+                "2": "The sun and moon reborns from the dawn."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/5/5e/Maxed_Sun_and_Moon.png"
+        },
+        {
+            "name": "Treasure",
+            "effects": {
+                "2": "Discover enemies holding treasures while in combat.",
+                "4": "The number of reward types found in chests discovered by this inscription's effect is increased."
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/b/be/Maxed_Treasure.png"
+        },
+        {
+            "name": "Wisdom",
+            "effects": {
+                "2": "Magic attack is amplified by 20%.",
+                "4": "Dealing Magic damage to an enemy Amplifies your Magic attack by 45% for 10 seconds. (Cooldown: 20 seconds)"
+            },
+            "image": "https://static.wikia.nocookie.net/skul/images/f/f0/Maxed_Wisdom.png"
+        }
+    ]
+}

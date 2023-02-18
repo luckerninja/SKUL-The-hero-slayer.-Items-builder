@@ -1,0 +1,2533 @@
+{
+    "items": [
+        {
+            "name": "\n\t\t\t\t\tAbandoned Wedding Ring\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"How long has it been left out? This ring is cold.\"",
+            "inscription1": "Heirloom",
+            "inscription2": "Absolute Zero",
+            "effects": [
+                "Increases skill cooldown speed by 25%\nYour Normal attack have a 2% chance to inflict Freeze.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/80/Abandoned_Wedding_Ring_Icon_Mini.png",
+            "id": 0
+        },
+        {
+            "name": "\n\t\t\t\t\tBasic Carleon Staff\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"A standard-issue staff given to the student of the Carleon Magic Academy.\"",
+            "inscription1": "Spoils",
+            "inscription2": "Wisdom",
+            "effects": [
+                "Increases Magic attack by 30%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/0f/Basic_Carleon_Staff_Icon_Mini.png",
+            "id": 1
+        },
+        {
+            "name": "\n\t\t\t\t\tBroken Dagger\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"Nobody knows why, but it looks more threatening when broken.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Excessive Bleeding",
+            "effects": [
+                "Increases Attack Speed by 15%",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/f/fc/Broken_Dagger_Icon_Mini.png",
+            "id": 2
+        },
+        {
+            "name": "\n\t\t\t\t\tCarleon Insignia\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"Just like everywhere else, the Carleon Army provides better equipment to higher-ranking members.\"",
+            "inscription1": "Spoils",
+            "inscription2": "Treasure",
+            "effects": [
+                "Generates 30 Gold per Carleon item you have upon changing maps.",
+                "Items that trigger this effect:\nCarleon Insignia\nBasic Carleon Staff\nStandard-Issue Carleon Armor\nStandard-Issue Carleon Bow\nStandard-Issue Carleon Sword\nProof of Fellowship"
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/6/6b/Carleon_Insignia_Icon_Mini.png",
+            "id": 3
+        },
+        {
+            "name": "\n\t\t\t\t\tDiscolored Dark Quartz Shard\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"It feels like I've met a mad man who's focused all his rage for his revenge.\"",
+            "inscription1": "Antique",
+            "inscription2": "Revenge",
+            "effects": [
+                "Increases HP by 25.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/b/b5/Discolored_Dark_Quartz_Shard_Icon_Mini.png",
+            "id": 4
+        },
+        {
+            "name": "\n\t\t\t\t\tHate Stone\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"A stone the orc shamans imbued with black magic to enhance combativeness.\"",
+            "inscription1": "Antique",
+            "inscription2": "Revenge",
+            "effects": [
+                "Increases Magic attack by 55% for 4 seconds when hit.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/e/e4/Hate_Stone_Icon_Mini.png",
+            "id": 5
+        },
+        {
+            "name": "\n\t\t\t\t\tKendo Stick\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"A training sword from the East that allows for swift strikes to the head.\"",
+            "inscription1": "Arms",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Increases Attack Speed by 20%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/6/6c/Kendo_Stick_Icon_Mini.png",
+            "id": 6
+        },
+        {
+            "name": "\n\t\t\t\t\tManatech Cogwheel\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"A hot cogwheel that continues to spin even after its duty.\"",
+            "inscription1": "Manatech",
+            "inscription2": "Arson",
+            "effects": [
+                "Increases Magic Attack by 20%.\nYour Normal attacks have a 2% chance to inflict Burn.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/9d/Manatech_Cogwheel_Icon_Mini.png",
+            "id": 7
+        },
+        {
+            "name": "\n\t\t\t\t\tOld Cross\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"Please provoke me no more, brother...\"",
+            "inscription1": "Relic",
+            "inscription2": "Dizziness",
+            "effects": [
+                "Increases Crit Rate by 5%.\nYour Normal attacks have a 2% chance to inflict Stun.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/6/6a/Old_Cross_Icon_Mini.png",
+            "id": 8
+        },
+        {
+            "name": "\n\t\t\t\t\tPrayer of Grace\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"Of course I did. I do it everyday. Yes, I put my heart into it.\"",
+            "inscription1": "Relic",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Increases skill cooldown speed by 40%.",
+                "This item may be associated with the Priestess Adventurer."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/8c/Prayer_of_Grace_Icon_Mini.png",
+            "id": 9
+        },
+        {
+            "name": "\n\t\t\t\t\tRejuvenating Root\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"A must-have for rookie adventurers.\"",
+            "inscription1": "Revenge",
+            "inscription2": "Mutant",
+            "effects": [
+                "Taking damage restores 1 HP. (Cooldown: 1 Second)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/b/b3/Rejuvenating_Root_Icon_Mini.png",
+            "id": 10
+        },
+        {
+            "name": "\n\t\t\t\t\tRing of Wind\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"Popular among travelers, even if it didn't have any special powers like sealing spirits.\"",
+            "inscription1": "Heirloom",
+            "inscription2": "Soar",
+            "effects": [
+                "Increases Attack Speed by 15%.\nIncreases Movement Speed by 15%.",
+                "The description indicates that many travelers have mistaken this item to be one of the Seal Spirit Equipment items.\nShadow Spirit Death\nEarth Spirit Gnome\nFire Spirit Salamander\nWater Spirit Undine\nLight Spirit Lou\nDark Spirit Shade"
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/95/Ring_of_Wind_Icon_Mini.png",
+            "id": 11
+        },
+        {
+            "name": "\n\t\t\t\t\tShadow Spirit Death\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"A small Shadow Spirit who offered an adventure to the Foolish Elementalist Rustamilcon.\"",
+            "inscription1": "Fairy Tale",
+            "inscription2": "Brawl",
+            "effects": [
+                "Shadow Spirit Death follows you and uses shadow magic to deal Magic Damage to random nearby enemies every 7 seconds.\nIf 'Light Spirit Lou' is in your possession, this item turns into 'Dark Spirit Shade'.",
+                "All the Spirits are associated to Rustimilcon, an Elementalist, who has yet to be seen in game."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/57/Shadow_Spirit_Death_Icon_Mini.png",
+            "id": 12
+        },
+        {
+            "name": "\n\t\t\t\t\tStandard-issue Carleon Armor\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"Non-distinct, standard-issue armor worn by the Carleon Army.\"",
+            "inscription1": "Spoils",
+            "inscription2": "Fortress",
+            "effects": [
+                "This armor is likely the same armor worn by Carleon Recruit Soldier enemies.\nThis item triggers 'Carleon Insignia'."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d7/Standard-issue_Carleon_Armor_Icon_Mini.png",
+            "id": 13
+        },
+        {
+            "name": "\n\t\t\t\t\tStandard-issue Carleon Bow\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"Bows are not as popular as they used to be since the introduction of crossbows.\"",
+            "inscription1": "Spoils",
+            "inscription2": "Strike",
+            "effects": [
+                "Increases Crit Rate by 8%.",
+                "This item triggers 'Carleon Insignia'."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/7b/Standard-issue_Carleon_Bow_Icon_Mini.png",
+            "id": 14
+        },
+        {
+            "name": "\n\t\t\t\t\tStandard-issue Carleon Sword\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"Standard-issue Carleon Sword. Its durability is questionable, but it still holds a sharp edge if well maintained.\"",
+            "inscription1": "Spoils",
+            "inscription2": "Courage",
+            "effects": [
+                "Increases Physical Attack by 30%.",
+                "This swordis likely the same sword used by Carleon Recruit Soldier enemies.\nThis item triggers 'Carleon Insignia'."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d6/Standard-issue_Carleon_Sword_Icon_Mini.png",
+            "id": 15
+        },
+        {
+            "name": "\n\t\t\t\t\tToxic Pendant\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"Who put.... poison... \"",
+            "inscription1": "Heirloom",
+            "inscription2": "Poisoning",
+            "effects": [
+                "Increases Physical Attack by 20%.\nYour normal attacks have a 2% chance to inflict Poison."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/b/ba/Toxic_Pendant_Icon_Mini.png",
+            "id": 16
+        },
+        {
+            "name": "\n\t\t\t\t\tUnknown Seed\t\t\t\t",
+            "rarity": "Common",
+            "description": "\"A large seed radiating with unknown powers.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Each time 10 HP is recovered, Physical attack and Magic attack increase by 1%.\nWhen total recovered HP reaches 300, this item turns into the 'World Tree Seed'.",
+                "This item is associated with the Stage One(1) Boss, Yggdrasil.\nThis item cannot be found in shops.\nThis item cannot be found in normal chest.\nThe Unknown Seed can only be obtained from a Stage Boss Chest after defeating the Stage One(1) Boss, Yggdrasil.\nThis item will track all health points healed, restored, or recovered regardless of the source of healing and/or restoration.\nThis includes health recovery from the Witch's Skill Trait, Reassemble, Voodoo Doll's effect, Relic Inscription, Foods, etc."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/c/cc/Unknown_Seed_Icon_Mini.png",
+            "id": 17
+        },
+        {
+            "name": "\n\t\t\t\t\tAbyssal Virus\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Warning: High chance to activate when dealing deadly damage.\"",
+            "inscription1": "Artifact",
+            "inscription2": "Execute",
+            "effects": [
+                "Damaging 50% of an enemy's Max HP summons tendrils that deal Magic Damage to nearby enemies.\nDamaging 5% of an Adventurer's or Boss's Max HP summons tendrils that deal Magic Damage to nearby enemies.\n(Cooldown: 1 second)",
+                "This item is useful for clearing wave rooms."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/71/Abyssal_Virus_Icon_Mini.png",
+            "id": 18
+        },
+        {
+            "name": "\n\t\t\t\t\tAcceleration Sword\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"I can do this all day.\"",
+            "inscription1": "Arms",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Swing Acceleration Sword every 14 seconds and deal Physical Damage.\nIncreasing your Attack Speed lets you swing the sword more frequently.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/02/Acceleration_Sword_Icon_Mini.png",
+            "id": 19
+        },
+        {
+            "name": "\n\t\t\t\t\tAfterimage\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Hey, are afterimages supposed to be like that?\"",
+            "inscription1": "Wisdom",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Normal attacks launch projectiles that deal Magic Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/c/cd/Afterimage_Icon_Mini.png",
+            "id": 20
+        },
+        {
+            "name": "\n\t\t\t\t\tAncestral Bracelet\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A bracelet imbued with the strength of the ancestors. It makes your arm tingle.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Increases Quintessence cooldown speed by 45%.\nIncreases Attack Speed by 30%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/50/Ancestral_Bracelet_Icon_Mini.png",
+            "id": 21
+        },
+        {
+            "name": "\n\t\t\t\t\tAncient Incense Burner\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"An incense burner used to communicate with the ancestral spirits within Quintessences.\"",
+            "inscription1": "Antique",
+            "inscription2": "Heritage",
+            "effects": [
+                "Increases Quintessence cooldown speed by 65%.\nIncreases Max HP by 35.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/2/26/Ancient_Incense_Burner_Icon_Mini.png",
+            "id": 22
+        },
+        {
+            "name": "\n\t\t\t\t\tAssassin Dagger\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"As you can see, this dagger isn't for slicing; it's for stabbing.\"",
+            "inscription1": "Hidden blade",
+            "inscription2": "Strike",
+            "effects": [
+                "Increases Crit Rate by 15%.\nIncreases the Attack Speed of Speed Skulls by 25%.\nIncreases the Movement Speed of Speed Skulls by 20%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/dd/Assassin_Dagger_Icon_Mini.png",
+            "id": 23
+        },
+        {
+            "name": "\n\t\t\t\t\tAttendant's Pauldrons\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Try not to distract me from my meditation.\"",
+            "inscription1": "Fortress",
+            "inscription2": "Courage",
+            "effects": [
+                "Increases concentration speed by 40%.\nIncreases Physical Attack by 35%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/e/e7/Attendant%27s_Pauldrons_Icon_Mini.png",
+            "id": 24
+        },
+        {
+            "name": "\n\t\t\t\t\tBeak of Raptor\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A very sharp, honed beak. Whose beak could this be?\"",
+            "inscription1": "Heritage",
+            "inscription2": "Strike",
+            "effects": [
+                "Increase Attack Speed by 25%.\nIncrease Crit Rate by 5%.\nSwapping to a Speed Skull increases Crit Rate by 10% for 12 seconds.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/4/40/Beak_of_Raptor_Icon_Mini.png",
+            "id": 25
+        },
+        {
+            "name": "\n\t\t\t\t\tBerserker's Gauntlet\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"'I sold this once without thinking, and a whole tribe was massacred.' - Wandering Merchant\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Revenge",
+            "effects": [
+                "Increases Attack Speed by up to 70% in proportion to your HP loss.",
+                "It is possible that this item is a reference to a gauntlet worn by the Beserker Skull.\nWhen this item reaches the final inscription stage of Masterpiece, it transforms in the Dark Berserker's Gauntlets."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d3/Berserker%27s_Gauntlet_Icon_Mini.png",
+            "id": 26
+        },
+        {
+            "name": "\n\t\t\t\t\tBone of Madness\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Bones made by countless, compressed bones. They say the array of these bones are such a sight to behold.\"",
+            "inscription1": "Bone",
+            "inscription2": "Brawl",
+            "effects": [
+                "Using a skill summons an area of bones that lasts for 10 seconds. (Cooldown: 10 Seconds).\nStanding inside the area increases your Physical Attack and Magic Attack by 50%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/2/21/Bone_of_Madness_Icon_Mini.png",
+            "id": 27
+        },
+        {
+            "name": "\n\t\t\t\t\tBone of Time\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A grotesque hourglass containing finely ground bone dust.\"",
+            "inscription1": "Bone",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Decreases swap cooldown by 0.5 second every time you use skills.",
+                "Bone Hourglass was renamed to be Bone of Time in patch 1.5."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/1/1a/Bone_of_Time_Icon_Mini.png",
+            "id": 28
+        },
+        {
+            "name": "\n\t\t\t\t\tBroken Mana Engine\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Some kind of component that moves erratically while leaking fuel.\"",
+            "inscription1": "Manatech",
+            "inscription2": "Chase",
+            "effects": [
+                "When dashing, creates a magic mass.\nThe magic mass explodes after a certain time, dealing Magic Damage.\nIncreases Skill cooldown speed by 55%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/71/Broken_Mana_Engine_Icon_Mini.png",
+            "id": 29
+        },
+        {
+            "name": "\n\t\t\t\t\tBurning Scripture\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Go ahead and read. Pass it to the next person when you're done...\"",
+            "inscription1": "Relic",
+            "inscription2": "Arson",
+            "effects": [
+                "When a burning enemy damages another enemy due to Burn, there is a 15% chance for the hit enemy to receive Burn.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d1/Burning_Scripture_Icon_Mini.png",
+            "id": 30
+        },
+        {
+            "name": "\n\t\t\t\t\tCavalry Decoration\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"An impressive cavalry decoration. It Looks as if it's eager to charge forth.\"",
+            "inscription1": "Heirloom",
+            "inscription2": "Chase",
+            "effects": [
+                "When dashing, thrust forward and deal Physical damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/f/f9/Cavalry_Decoration_Icon_Mini.png",
+            "id": 31
+        },
+        {
+            "name": "\n\t\t\t\t\tCeremonial Dagger\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A dagger used by Carleon exorcists.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Artifact",
+            "effects": [
+                "Critical Attacks increase Magic Attack by 55% for 4 Seconds.\nIncreases Crit Rate by 5%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/30/Ceremonial_Dagger_Icon_Mini.png",
+            "id": 32
+        },
+        {
+            "name": "\n\t\t\t\t\tChampion's Belt\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"The belt which belonged to a gladiator who stood against 17. This turned out to be true, along with the fact that he was bare-handed.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Brawl",
+            "effects": [
+                "Increases Physical Attack by 12% for every enemy nearby. (Stacks up to 120%)\nWhen near 5 or more enemies, release a shockwave that deals Physical Damage to nearby enemies. (Cooldown: 1 second)",
+                "When Fighter's Belt reaches the final stage of the Masterpiece inscription it transforms into the Champion's Belt."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/1/1f/Champion%27s_Belt_Icon_Mini.png",
+            "id": 33
+        },
+        {
+            "name": "\n\t\t\t\t\tCoward's Cape\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"I'm not running away. this is a strategic retreat!\"",
+            "inscription1": "Antique",
+            "inscription2": "Chase",
+            "effects": [
+                "Jumping within 0.1 seconds after dashing increases Movement Speed by 300% for 1 second.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/b/b1/Coward%27s_Cape_Icon_Mini.png",
+            "id": 34
+        },
+        {
+            "name": "\n\t\t\t\t\tDark Berserker's Gauntlets\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"'And the next time we met, they were stained black. Only leaving behind a rumor that he felled a country.' - Wandering Merchant\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Revenge",
+            "effects": [
+                "Increases Attack Speed by up to 60% in proportion to your HP loss.\nIncreases Attack Speed by an addition 50% when your current HP is at 30% or below.",
+                "It is possible that this item is a reference to gauntlets worn by the Beserker Skull.\nThis item cannot be found in shops.\nThis item cannot be found in chests.\nDark Berserker's Gauntlets can only be obtained by having Berserker's Gauntlet and reaching Masterpiece's final inscription stage."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/94/Dark_Berserker%27s_Gauntlets_Icon_Mini.png",
+            "id": 35
+        },
+        {
+            "name": "\n\t\t\t\t\tDecayed Heart\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A vile heart that discharges poison on impact.\"",
+            "inscription1": "Revenge",
+            "inscription2": "Poisoning",
+            "effects": [
+                "Poison nearby enemies when hit. (Cooldown: 1 second)\nDefeating a poisoned enemy spreads decay, poisoning other nearby enemies.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/95/Decayed_Heart_Icon_Mini.png",
+            "id": 36
+        },
+        {
+            "name": "\n\t\t\t\t\tDisposable Syringe\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Despite the name, it seems to have been used at least ten times.\"",
+            "inscription1": "Misfortune",
+            "inscription2": "Poisoning",
+            "effects": [
+                "Critical hits inflict Poison.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/b/b4/Disposable_Syringe_Icon_Mini.png",
+            "id": 37
+        },
+        {
+            "name": "\n\t\t\t\t\tDistorted Curved Sword\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A lethal curved sword impossible to predict when swung.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Duel",
+            "effects": [
+                "Increases Physical Attack by 25%.\nIncreases Crit Rate by 10%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/57/Distorted_Curved_Sword_Icon_Mini.png",
+            "id": 38
+        },
+        {
+            "name": "\n\t\t\t\t\tDoubled Prince's Box\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"This is a box; it holds whatever it is you desire. But two instead!\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Random",
+            "effects": [
+                "Increases the number of all inscriptions by 1.\nIncreases Max HP by 20.\nThis item comes with a random inscription.",
+                "When Prince's Box reaches the final stage of the Masterpiece inscription it transforms into the Doubled Prince's Box.\nThis item is based on the story titled \"The Little Prince\" but told twice!\nDestroying the item will not allow you find it in shops.\nThis item cannot be found in shops.\nThis item cannot be found in chests.\nThe only way to obtain this item is to have a Prince's Box with the Masterpiece Inscription, and reaching the final inscription stage.\nYou cannot reroll the inscriptions by dropping the item (when swapping for another item).\nTwo (2) Doubled Prince's Boxes, with the Sun and Moon inscriptions, will NOT fuse to produce Fulgent Dawn.\nPrince's Box with the  Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nDoubled Prince's Box with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Stamp with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Clone with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/9c/Doubled_Prince%27s_Box_Icon_Mini.png",
+            "id": 39
+        },
+        {
+            "name": "\n\t\t\t\t\tEarth Spirit Gnome\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"The Gnome that once supported the great subterranean Dwarven Hall is forever trapped in Rustamilcon's necklace.\"",
+            "inscription1": "Fairy Tale",
+            "inscription2": "Fortress",
+            "effects": [
+                "Earth Spirit Gnome follows you and uses rock magic to deal Magic Damage to nearby enmies every 12 seconds.",
+                "All spirits are associate with Rustimilcon, an elementalist, that has yet to be seen in game."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/5c/Earth_Spirit_Gnome_Icon_Mini.png",
+            "id": 40
+        },
+        {
+            "name": "\n\t\t\t\t\tElder Ent's Gratitude\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Blessings of Yggdrasil that contain energies of the Forest of Harmony.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Gains an HP Barrior with 40 HP.\nIncreases Physical Attack and Magic Attack by 40% while the barrier lasts.\nThis item disappears when the 40 HP Barrier disappears.",
+                "This item is related to Yggdrasil.\nThis item can only be obtained from the Stage Boss chest.\nThis item is best sold/destroyed for gold right before you lose the last 1 HP of the 40 HP barrier.\nWhen this item disappears from your inventory, from losing all of the 40 HP barrier, you do not gain gold."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/e/ed/Elder_Ent%27s_Gratitude_Icon_Mini.png",
+            "id": 41
+        },
+        {
+            "name": "\n\t\t\t\t\tElementalist's Blessing\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"The last legacy of the late Rustamilcon.\"",
+            "inscription1": "Fairy Tale",
+            "inscription2": "Heirloom",
+            "effects": [
+                "Increases Magic attack by 45% for every Spirit you have.",
+                "This item is associated with Rustamilcon, an elementalist, yet to be seen in game.\nHaving multiple copies of Elementalist's Blessing will stack the effect and count Spirits for each Elementalist's Blessing."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/09/Elementalist%27s_Blessing_Icon_Mini.png",
+            "id": 42
+        },
+        {
+            "name": "\n\t\t\t\t\tEleventh Finger of Lightning\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"No one knows if this Lightning is a real person, or the Finger is just a figure of speech.\"",
+            "inscription1": "Artifact",
+            "inscription2": "Duel",
+            "effects": [
+                "A lightning bolt strikes a random enemy every 8 seconds, dealing Magic damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/3a/Eleventh_Finger_of_Lightning_Icon_Mini.png",
+            "id": 43
+        },
+        {
+            "name": "\n\t\t\t\t\tExecution Axe\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A giant axe used by Carleon's executioners.\"",
+            "inscription1": "Arms",
+            "inscription2": "Execute",
+            "effects": [
+                "Increases Physical attack by 50%.\nIncreases the Max HP of Power Skulls by 30.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/97/Execution_Axe_Icon_Mini.png",
+            "id": 44
+        },
+        {
+            "name": "\n\t\t\t\t\tFighter's Belt\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"The belt of a fighter known to have taken on 17 singlehandedly. The results have been lost over time.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Brawl",
+            "effects": [
+                "For each enemy nearby, increases Physical attack by 9%. (Max 90%)",
+                "Reaching the final stage of Masterpiece inscription transforms this item into the Champion's Belt."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/a9/Fighter%27s_Belt_Icon_Mini.png",
+            "id": 45
+        },
+        {
+            "name": "\n\t\t\t\t\tFragments of Sun Wagon\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Fragments from a crashed chariot that has been wandering the empty skies.\"",
+            "inscription1": "Chase",
+            "inscription2": "Arson",
+            "effects": [
+                "When dashing, create a trail of fire which deals Magic Damage and has 8% to inflict Burn.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/84/Fragments_of_Sun_Wagon_Icon_Mini.png",
+            "id": 46
+        },
+        {
+            "name": "\n\t\t\t\t\tGiant's Ax\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Whoever you are, don't mess with their mammoths.\"",
+            "inscription1": "Arms",
+            "inscription2": "Mutant",
+            "effects": [
+                "Increases Physical attack by 40%.\nSwapping to Power Skulls sends nearby enemies flying and inflicts Physical damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/8c/Giant%27s_Ax_Icon_Mini.png",
+            "id": 47
+        },
+        {
+            "name": "\n\t\t\t\t\tGlowstone\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A stone that boasts a very bright glow. It's no mere light.\"",
+            "inscription1": "Treasure",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Gain a 10 HP barrier for 30 seconds every time 5 skills are used. (Cooldown: 30 seconds)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/09/Glowstone_Icon_Mini.png",
+            "id": 48
+        },
+        {
+            "name": "\n\t\t\t\t\tGold Incense Burner\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Selling this is like killing a golden goose.\"",
+            "inscription1": "Antique",
+            "inscription2": "Treasure",
+            "effects": [
+                "Increases Gold gain by 25%. Increases Max HP by 35.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/c/c0/Gold_Incense_Burner_Icon_Mini.png",
+            "id": 49
+        },
+        {
+            "name": "\n\t\t\t\t\tGolden Sword\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Use the superfluous gold to forge the world's most magnificent sword!\"",
+            "inscription1": "Arms",
+            "inscription2": "Treasure",
+            "effects": [
+                "Every 100 Gold spent increases Physical Attack by 1%. (Stacks up to 70%)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/73/Golden_Sword_Icon_Mini.png",
+            "id": 50
+        },
+        {
+            "name": "\n\t\t\t\t\tGolden Whip\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Hurry up and hit me! Please! Please! I beg you!\"",
+            "inscription1": "Treasure",
+            "inscription2": "Revenge",
+            "effects": [
+                "Increases Magic Attack by 70% when your Hp is at 30% or below.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/da/Golden_Whip_Icon_Mini.png",
+            "id": 51
+        },
+        {
+            "name": "\n\t\t\t\t\tGreat Sage's Time\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"What is life? One suddenly ponders the meaning of life. All anguish takes leave, and perhaps one understands the workings of the universe.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Courage",
+            "effects": [
+                "Increases Physical Attack by 30% for every skill on cooldown.\nWhen 4 skills are on cooldown, unleash a wave of epiphany and deal Physical Damage. (Cooldown: 3 seconds)",
+                "When Sage's Time reaches the final stage of the Masterpiece inscription it transforms into the Great Sage's Time.\nGreat' Sage's Time cannot be found in shops.\nGreat Sage's Time cannot be found in chests.\nGreat Sage's Time can only be obtained via having Sage's Time and reaching the final stage of the Masterpiece inscription.\nThe name is a reference to the monkey king, who is also called the \u201cGreat Sage Equal to Heaven.\u201d"
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/53/Great_Sage%27s_Time_Icon_Mini.png",
+            "id": 52
+        },
+        {
+            "name": "\n\t\t\t\t\tGrudge Stone\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Hurry up and hit me! Please! Please! I beg you!\"",
+            "inscription1": "Artifact",
+            "inscription2": "Execute",
+            "effects": [
+                "When defeating an enemy, there is a 30% chance to create an explosion that deals Magic Damage.\nIncreases Max HP by 30.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d4/Grudge_Stone_Icon_Mini.png",
+            "id": 53
+        },
+        {
+            "name": "\n\t\t\t\t\tHealth Screening Machine\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"There will be a quick precision check-up for early signs of illness.\"",
+            "inscription1": "Manatech",
+            "inscription2": "Strike",
+            "effects": [
+                "Increases swap cooldown speed by 10% and Crit Rate by 4% for every enemy under status effect. (Stacks up to 50% and 20% each)",
+                "This item is a possible reference to the real world pandemic of 2020."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/9b/Health_Screening_Machine_Icon_Mini.png",
+            "id": 54
+        },
+        {
+            "name": "\n\t\t\t\t\tHidden Dagger\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"The thinner your wrist, the easier it is to hide these daggers in your sleeves.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Chase",
+            "effects": [
+                "When dashing, throws a dagger that deals Physical damage.\nIncreases Crit Rate by 10%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/56/Hidden_Dagger_Icon_Mini.png",
+            "id": 55
+        },
+        {
+            "name": "\n\t\t\t\t\tHunter's Boots\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Wind magic is added to these boots made of deer skin from the Forest of Harmony.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Chase",
+            "effects": [
+                "When dashing, an arrow falls on a random enemy and deals Physical damage.",
+                "When Hunter's Boots reaches the final inscription stage, it transforms into Veteran Hunter's Boots."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/a7/Hunter%27s_Boots_Icon_Mini.png",
+            "id": 56
+        },
+        {
+            "name": "\n\t\t\t\t\tIce Scale Spaulders\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"I can't feel my shoulders.\"",
+            "inscription1": "Fortress",
+            "inscription2": "Absolute Zero",
+            "effects": [
+                "Increases dash attack damage by 30%\nDash attacks have a 10% chance to inflict Freeze.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/4/42/Ice_Scale_Spaulders_Icon_Mini.png",
+            "id": 57
+        },
+        {
+            "name": "\n\t\t\t\t\tInner Flame\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"The burning drive buried deep within the subconscious.\"",
+            "inscription1": "Mutant",
+            "inscription2": "Arson",
+            "effects": [
+                "Swapping increases Magic Attack by 60% for 12 seconds and draws out inner flames that deal Magic Damage and inflict Burn.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/b/bc/Inner_Flame_Icon_Mini.png",
+            "id": 58
+        },
+        {
+            "name": "\n\t\t\t\t\tInner Malice\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"The spiteful heart hidden deep within the subconscious.\"",
+            "inscription1": "Mutant",
+            "inscription2": "Poisoning",
+            "effects": [
+                "Swapping brings out your inner malice, dealing Physical Damage and Poisoning nearby enemies, and Increases Physical Attack by 60% for 12 seconds.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/e/e8/Inner_Malice_Icon_Mini.png",
+            "id": 59
+        },
+        {
+            "name": "\n\t\t\t\t\tInvisible Knife\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A blade with an invisible edge. They say wounds the soul.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Misfortune",
+            "effects": [
+                "Critical hits let you stab your enemy with the Invisible Knife for additional Magic Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/94/Invisible_Knife_Icon_Mini.png",
+            "id": 60
+        },
+        {
+            "name": "\n\t\t\t\t\tIron Shoes of Bitter Cold\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"If nothing else, these shoes aren't designed for catching cockroaches.\"",
+            "inscription1": "Soar",
+            "inscription2": "Absolute Zero",
+            "effects": [
+                "Increases Magic Attack by 40% while in midair.\nNormal attacks performed in midair have a 5% chance to inflict Freeze.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/1/15/Iron_Shoes_of_Bitter_Cold_Icon_Mini.png",
+            "id": 61
+        },
+        {
+            "name": "\n\t\t\t\t\tJagamon Thorn\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Jagamon's broken thorn can be turned into a deadly weapon when it curcls up into a ball.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Excessive Bleeding",
+            "effects": [
+                "Normal attacks, against enemies inflicted with Wound, deal an additional 7 Fixed Damage and increase your Attack Speed and Movement Speed by 3% for 5 seconds. (Stacks up to 30%)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/c/cf/Jagamon_Thorn_Icon_Mini.png",
+            "id": 62
+        },
+        {
+            "name": "\n\t\t\t\t\tJenny's Chain Sickle\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Pleasure to see you for the first time, brother. But I'm afraid this is the end.\"",
+            "inscription1": "Soar",
+            "inscription2": "Misfortune",
+            "effects": [
+                "Normal attacks performed in midair lets you swing a chain sickle that deals Physical Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/0e/Jenny%E2%80%99s_Chain_Sickle_Icon_Mini.png",
+            "id": 63
+        },
+        {
+            "name": "\n\t\t\t\t\tJustice Served\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Kids these days have no respect.\"",
+            "inscription1": "Execute",
+            "inscription2": "Dizziness",
+            "effects": [
+                "For every 15 seconds, your next attack inflicts Stun.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/2/2b/Justice_Served_Icon_Mini.png",
+            "id": 64
+        },
+        {
+            "name": "\n\t\t\t\t\tKnight's Determination\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A helm worn by a nameless knight who was found dead in a destroyed palace with his shield still held upward.\"",
+            "inscription1": "Fortress",
+            "inscription2": "Revenge",
+            "effects": [
+                "Decreases incoming damage by 30% when your remaining HP is 30% or less.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/ad/Knight%27s_Determination_Icon_Mini.png",
+            "id": 65
+        },
+        {
+            "name": "\n\t\t\t\t\tLunar Ring\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A moon-patterned ring that resembles someone waiting for a certain somebody.\"",
+            "inscription1": "Artifact",
+            "inscription2": "Sun and Moon",
+            "effects": [
+                "Increases Magic Attack by 40%.",
+                "\nSolar Sword and Lunar Ring are required to be in your inventory to fuse together to produce Fulgent Dawn.\nTwo (2) Lunar Rings will NOT fuse to produce Fulgent Dawn, instead they will produce Dawn of the Argent Moon.\nPrince's Box with the  Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nDoubled Prince's Box with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Stamp with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Clone with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/e/e0/Lunar_Ring_Icon_Mini.png",
+            "id": 66
+        },
+        {
+            "name": "\n\t\t\t\t\tLuxurious Tea Cup\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Even in combat, a little relaxing isn't a bad thing, is it?\"",
+            "inscription1": "Antique",
+            "inscription2": "Heirloom",
+            "effects": [
+                "Stiffen nearby enemies at the beginning of concentration.\nAt the end of concentration, Crit Rate is increased by 15% for 1 second.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/4/43/Luxurious_Tea_Cup_Icon_Mini.png",
+            "id": 67
+        },
+        {
+            "name": "\n\t\t\t\t\tMage's Necklace\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Studded with gemstones to help the wearer feel the flow of mana.\"",
+            "inscription1": "Heirloom",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "When casting a skill, creates a burning orb.\nThe burning orb hurls a fireball at the nearest enemy, dealing Magic Damage.",
+                "This item is associated with the Mage Adventurer.\nThe Summoning Circle for the fireballs are the same design used by the Mage Adventurer."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/0b/Mage%27s_Necklace_Icon_Mini.png",
+            "id": 68
+        },
+        {
+            "name": "\n\t\t\t\t\tMagic Bead of Darkness\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"I told you, you should keep back when I transform.\"",
+            "inscription1": "Mutant",
+            "inscription2": "Dizziness",
+            "effects": [
+                "Swapping for the third time stuns nearby enemies.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/7d/Magic_Bead_of_Darkness_Icon_Mini.png",
+            "id": 69
+        },
+        {
+            "name": "\n\t\t\t\t\tMagical Choker\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A magical choker that activates when sensing danger nearby.\"",
+            "inscription1": "Mutant",
+            "inscription2": "Strike",
+            "effects": [
+                "Swapping fires 8 magical projectiles that deal Magic Damage.\nFor every projectile hit, your Crit Rate increases by 2% for 10 seconds. (Stacks up to 16%)",
+                "Basic attacks like Great Warlock's projectiles do not proc the buff."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/1/15/Magical_Choker_Icon_Mini.png",
+            "id": 70
+        },
+        {
+            "name": "\n\t\t\t\t\tMagical Staff\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"I'm not an evil slime!\"",
+            "inscription1": "Mutant",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Attacking an enemy whose current HP is at max has a 10% change to turn them into critters. (Excluding adventurers and bosses)",
+                "This item cannot be found in shops.\nThis item cannot be found in chests.\nThis item can only be obtained from the Magical Slime while you have no items in your inventory."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/9a/Magical_Staff_Icon_Mini.png",
+            "id": 71
+        },
+        {
+            "name": "\n\t\t\t\t\tManatech Booster\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Initiate countdown. Three, two, one, boosters on!\"",
+            "inscription1": "Manatech",
+            "inscription2": "Soar",
+            "effects": [
+                "Normal attacks and skills performed in midair increase Attack Speed by 5% for 3 seconds. (Stacks up to 50%)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/04/Manatech_Booster_Icon_Mini.png",
+            "id": 72
+        },
+        {
+            "name": "\n\t\t\t\t\tManatech Gravity Generator\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Do you call that 'Control'?\"",
+            "inscription1": "Manatech",
+            "inscription2": "Courage",
+            "effects": [
+                "Using a skill activates Manatech Gravity Generator which deals Physical Damage to nearby enemies and temporarily suspends them in the air.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/36/Manatech_Gravity_Generator_Icon_Mini.png",
+            "id": 73
+        },
+        {
+            "name": "\n\t\t\t\t\tMysterious Apparatus\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"An apparatus which bestows mysterious power. Consult your physician before use if you are taking medications.\"",
+            "inscription1": "Heirloom",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Using a skill increases Attack Speed by 20% for 3 seconds.\nYour normal attacks create a wave of mysterious force that deals Physical Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/a4/Mysterious_Apparatus_Icon_Mini.png",
+            "id": 74
+        },
+        {
+            "name": "\n\t\t\t\t\tNaias's Heart\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A magic gem found in the place of the heart of the spirit who protected Elemental Lake.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Absolute Zero",
+            "effects": [
+                "Taking damage Freezes nearby enemies. (Cooldown: 10 Seconds)\nAt the end of Freeze duration, an ice storm erupts, dealing Magic Damage.",
+                "Elemental Lake is an unrevealed location."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/c/cf/Naias%27s_Heart_Icon_Mini.png",
+            "id": 75
+        },
+        {
+            "name": "\n\t\t\t\t\tOffensive Wheel\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"How was it created so that it never stops moving forward?\"",
+            "inscription1": "Antique",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Increase Physical Attack by 45%.\nWhen swapping after castiling 4 skills, summon a wagon wheel that deals Physical Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/9e/Offensive_Wheel_Icon_Mini.png",
+            "id": 76
+        },
+        {
+            "name": "\n\t\t\t\t\tPassed-Down Scabbard\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A long-lasting scabbard said to have lived on even after its sword was lost. It is rumored that the scabbard itself discarded the sword.\"",
+            "inscription1": "Relic",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Restoring your HP creates sword slashes nearby for 10 seconds and deals Physical Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/75/Passed-Down_Scabbard_Icon_Mini.png",
+            "id": 77
+        },
+        {
+            "name": "\n\t\t\t\t\tPriestess's Veil\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A black cloth is draped over the veil to block the voices of demons.\"",
+            "inscription1": "Relic",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Randomly casts a 10 second buff every 20 seconds.(Increases Physical/Magic attack by 60 / Decreases incoming damage by 40% / Increases Attack Speed by 65% and Movement Speed by 55%)",
+                "This item is associated to the Priestess Adventurer"
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/4/40/Priestess%27s_Veil_Icon_Mini.png",
+            "id": 78
+        },
+        {
+            "name": "\n\t\t\t\t\tPrince's Box\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"This is a box; it holds whatever it is you desire.\"",
+            "inscription1": "Random",
+            "inscription2": "",
+            "effects": [
+                "Increases Max HP by 20.\nIncreases Physical Attack and Magic Attack by 30%.\nThis item randonly gains two (2) inscriptions.",
+                "Prince's Box can roll two (2) of the same inscriptions.\nThis item is based on the story titled \"The Little Prince\".\nDestroying the item and later finding it in a chest or the Black Market will allow a reroll of the inscriptions.\nYou cannot reroll the inscriptions by dropping the item (when swapping for another item).\nYou can reroll the inscriptions, while this item is in the shop, by restarting the game.\nTwo (2) Prince's Boxes, with the Sun and Moon inscriptions, will NOT fuse to produce Fulgent Dawn.\nPrince's Box with the  Sun and Moon Inscription and any other item (Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nwith the Sun and Moon Inscription and any other item (Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Stamp with the Sun and Moon Inscription and any other item (Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Clone with the Sun and Moon Inscription and any other item (Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/a1/Prince%27s_Box_Icon_Mini.png",
+            "id": 79
+        },
+        {
+            "name": "\n\t\t\t\t\tRake of Fury\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Why would anyone want to use this to butcher livestock?\"\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Execute",
+            "effects": [
+                "Increases Attack Speed by 55% for 5 seconds per kill.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/31/Rake_of_Fury_Icon_Mini.png",
+            "id": 80
+        },
+        {
+            "name": "\n\t\t\t\t\tRapid Sword of the Subconscious\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"I, too, cannot control myself anymore. I entrust my body to the Rapid Sword.\"",
+            "inscription1": "Arms",
+            "inscription2": "Duel",
+            "effects": [
+                "Deal Physical Damage to a random nearby enemy every 13 seconds.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/1/14/Rapid_Sword_of_the_Subconscious_Icon_Mini.png",
+            "id": 81
+        },
+        {
+            "name": "\n\t\t\t\t\tRelatability Generator\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"How is it? All of you. Can you feel it? That person's condition.\"",
+            "inscription1": "Manatech",
+            "inscription2": "Dizziness",
+            "effects": [
+                "Increases Skill cooldown speed by 40%.\nStunning an enemy creates a wave that inflicts Stun on other nearby enemies. (Cooldown: 3 seconds)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/09/Relatability_Generator_Icon_Mini.png",
+            "id": 82
+        },
+        {
+            "name": "\n\t\t\t\t\tRitual Staff\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Also serves as a bludgeon in a pinch.\"",
+            "inscription1": "Artifact",
+            "inscription2": "Wisdom",
+            "effects": [
+                "Increases Magic attack by 50%.\nIncreases the Skill Cooldown Speed of Balance Skulls by 40%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/2/25/Ritual_Staff_Icon_Mini.png",
+            "id": 83
+        },
+        {
+            "name": "\n\t\t\t\t\tSage's Time\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"What is life? Suddenly makes one question the purpose of everything.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Courage",
+            "effects": [
+                "For each skill on cooldown, increases Physical attack by 25%.",
+                "Reaching the final stage of Masterpiece inscription transforms this item into the Great Sage's Time."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/c/ca/Sage%27s_Time_Icon_Mini.png",
+            "id": 84
+        },
+        {
+            "name": "\n\t\t\t\t\tSolar Sword\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A sun-patterned sword that resembles someone longing for a certain somebody.\"",
+            "inscription1": "Arms",
+            "inscription2": "Sun and Moon",
+            "effects": [
+                "Increases Physical attack by 40%.",
+                "Solar Sword and Lunar Ring are required to be in your inventory to fuse together to produce Fulgent Dawn.\nTwo (2) Solar Swords will NOT fuse to produce Fulgent Dawn. *\nPrince's Box with the  Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nDoubled Prince's Box with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Stamp with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Clone with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/f/f7/Solar_Sword_Icon_Mini.png",
+            "id": 85
+        },
+        {
+            "name": "\n\t\t\t\t\tSphere of Sniping\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A sphere of magical sniping that has only one downside: it can't target the enemy it wants.\"",
+            "inscription1": "Duel",
+            "inscription2": "Misfortune",
+            "effects": [
+                "Increases Magic Attack by 25%.\nIncreases Crit Damage by 10%.\nSwapping to a Balance Skull fires several magic arrows that deal Magic Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/b/b7/Sphere_of_Sniping_Icon_Mini.png",
+            "id": 86
+        },
+        {
+            "name": "\n\t\t\t\t\tSphinx Eye\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"An eye believed to make its bearer fearless.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Artifact",
+            "effects": [
+                "Decreases trap damage by 75%.\nIncreases Magic Attack by 35%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/4/48/Sphinx_Eye_Icon_Mini.png",
+            "id": 87
+        },
+        {
+            "name": "\n\t\t\t\t\tSymbol of Toughness\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"The armor worn by a warrior who thought the best offense was a good defense.\"",
+            "inscription1": "Fortress",
+            "inscription2": "Heirloom",
+            "effects": [
+                "Taking hits while have an active HP barrier sends out a shockwave toward the attacker. (1 Second Cooldown)\nThe shockwave deals Physical Damage proportional to the HP of the barrier.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/de/Symbol_of_Toughness_Icon_Mini.png",
+            "id": 88
+        },
+        {
+            "name": "\n\t\t\t\t\tThief Armor\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Aerodynamic armor popular among assassins.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Misfortune",
+            "effects": [
+                "Upon attacking with normal attacks, throws a ninja star that deals Physical Damage.\nOn a Critical Attack, throws a giant ninja star that deals Physical Damage. (Cooldown: 0.5 sec.)",
+                "This item is associated with the Thief Adventurer.\nThis item may be the missing armor from the Thief Adventurer."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/7a/Thief_Armor_Icon_Mini.png",
+            "id": 89
+        },
+        {
+            "name": "\n\t\t\t\t\tThorny Boots\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Boots studded with sharp thorns at the bottom.\"",
+            "inscription1": "Soar",
+            "inscription2": "Excessive Bleeding",
+            "effects": [
+                "Increases Physical Attack by 40% while in midair.\nNormal Attacks performed in midair have a 15% chance to inflict Wound.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/56/Thorny_Boots_Icon_Mini.png",
+            "id": 90
+        },
+        {
+            "name": "\n\t\t\t\t\tThorny Pauldrons\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Such extraordinary pieces of armor are usually popular among mercenaries.\"",
+            "inscription1": "Fortress",
+            "inscription2": "Excessive Bleeding",
+            "effects": [
+                "Increases Dash Damage by 80%.\nDash Attacks gain 10% chance to inflict Wound.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/59/Thorny_Pauldrons_Icon_Mini.png",
+            "id": 91
+        },
+        {
+            "name": "\n\t\t\t\t\tTrainee's Necklace\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"There's nothing overly complicated about meditating. Just close your eyes, and concentrate.\"",
+            "inscription1": "Antique",
+            "inscription2": "Wisdom",
+            "effects": [
+                "Increases concentration speed by 40%.\nIncreases Magic Attack by 35%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/2/21/Trainee%27s_Necklace_Icon_Mini.png",
+            "id": 92
+        },
+        {
+            "name": "\n\t\t\t\t\tVampire Fang\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Elizabeth's fang can't be destroyed by anything under the sun.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Excessive Bleeding",
+            "effects": [
+                "Defeating five (5) enemies restores one (1) HP and causes a vampire's stake to extend and inflict Wound to nearby enemies.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/c/c1/Vampire_Fang_Icon_Mini.png",
+            "id": 93
+        },
+        {
+            "name": "\n\t\t\t\t\tVeteran Hunter's Boots\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Wind magic is added to these boots made of deer skin from the Forest of Harmony. The improved wind magic possesses untold power\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Chase",
+            "effects": [
+                "When dashing, an arrow falls on 3 random enemy and deals Physical damage.",
+                "This item is associated with the Hunter Adventurer.\nWhen Hunter's Boots reaches the final inscription stage, it transforms into Veteran Hunter's Boots.\nThis item cannot be found shops.\nThis item cannot be found in chests.\nThis item can only be obtained by having Hunter's Boots and reaching the final inscription stage."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/36/Veteran_Hunter%27s_Boots_Icon_Mini.png",
+            "id": 94
+        },
+        {
+            "name": "\n\t\t\t\t\tVeteran Warrior's Gloves\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"A set of defensive equipment suitable against both the sword and magic. But slightly better for magic.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Courage",
+            "effects": [
+                "After using a skill, create an energy blast that deals Physical Damage.",
+                "This item is associated to the Warrior Adventurer.\nWhen Warrior's Gloves reaches the final stage of the Masterpiece inscription it transforms into the Veteran Warrior's Gloves."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/f/fd/Veteran_Warrior%27s_Gloves_Icon_Mini.png",
+            "id": 95
+        },
+        {
+            "name": "\n\t\t\t\t\tWarrior's Gloves\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Armor that deflects both swords and magic.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Courage",
+            "effects": [
+                "When dashing, creates an energy blast that deals Physical damage. (Cooldown: 7 seconds)",
+                "This item is associated to the Warrior Adventurer.\nReaching the final stage of Masterpiece inscription transforms this item into the Veteran Warrior's Gloves."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/53/Warrior%27s_Gloves_Icon_Mini.png",
+            "id": 96
+        },
+        {
+            "name": "\n\t\t\t\t\tWarrior's Pauldrons\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"One needs impressively broad shoulders to wear this armor.\"",
+            "inscription1": "Fortress",
+            "inscription2": "Brawl",
+            "effects": [
+                "Every 20 seconds, creates a wall that lasts for 5 seconds.\nThe wall nullifies damage received from the front.",
+                "This item is associated with the Warrior Adventurer.\nThis item is the same armor the Warrior Adventurer wears when encountering him."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/b/b6/Warrior%27s_Pauldrons_Icon_Mini.png",
+            "id": 97
+        },
+        {
+            "name": "\n\t\t\t\t\tWind Armor\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"Metal armor imbued with the power of wind from the Druid Gorge.\"",
+            "inscription1": "Fortress",
+            "inscription2": "Chase",
+            "effects": [
+                "Dashing within 0.4 seconds after a previous dash engulfs you in a cutting wind, dealing Magic Damage to a nearby enemy.",
+                "The Druid Gorge may be an unreleased druid NPC named Gorge.\nThe Druid Gorge may be an unreleased location."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/59/Wind_Armor_Icon_Mini.png",
+            "id": 98
+        },
+        {
+            "name": "\n\t\t\t\t\tWind Spirit Sylphid\t\t\t\t",
+            "rarity": "Rare",
+            "description": "\"The Sylphid that once took care of the Druid Gorge is forever trapped in Rustamilcon's necklace.\"",
+            "inscription1": "Fairy Tale",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Wind Spirit Sylphid follows you and uses wind magic to deal Magic Damage to enemies in front.",
+                "This item is associated with Rustamilcon, an elementalist, that has yet to be seen in game."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/f/fb/Wind_Spirit_Sylphid_Icon_Mini.png",
+            "id": 99
+        },
+        {
+            "name": "\n\t\t\t\t\tAbsolute Mithril Gear\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A suit of armor forged from the strongest of metals which hardens each time it is struck. Due to added layers, it now possesses an immeasurable value.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Chase",
+            "effects": [
+                "Dash attacks increase Physical Attack by 8% for 6 seconds. (Stacks up to 80%)\nReaching the maximum limit for this effect decreases damage taken by 25% and increases Physical Attack by 40%.",
+                "This item cannot be found in shops.\nThis item cannot be found in chests.\nThis item can only be obtained by reaching the final stage of the Masterpiece inscription while having Mithril Gear in your inventory."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d7/Absolute_Mithril_Gear_Icon_Mini.png",
+            "id": 100
+        },
+        {
+            "name": "\n\t\t\t\t\tAftershocks\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"It shall not be thought so insignificant. For it is comparable to many a great earthquake.\"",
+            "inscription1": "Brawl",
+            "inscription2": "Dizziness",
+            "effects": [
+                "Stunning an enemy causes an aftershock that deals Magic Damage to nearby enemies. (Cooldown: 1 second)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/6/67/Aftershocks_Icon_Mini.png",
+            "id": 101
+        },
+        {
+            "name": "\n\t\t\t\t\tArch Bishop's Scriptures\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"How are they being punished? I wonder who is being blasphemous?\"",
+            "inscription1": "Relic",
+            "inscription2": "Wisdom",
+            "effects": [
+                "Using a skill calls down divine punishment dealing Magic Damage. (Cooldown:30 seconds)\nEach hit amplifies Magic Damage by 10% for 10 seconds. (Up to 50%)",
+                "This item is associated with, the Stage Boss, Archbishop of the Leonia Order, St. Joan II.\nThis item is only obtainable via a random drop from a Boss Drop Chest."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d2/Arch_Bishop%27s_Scriptures_Icon_Mini.png",
+            "id": 102
+        },
+        {
+            "name": "\n\t\t\t\t\tArchitect's Breastplate\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Oooh, you have plans!\"",
+            "inscription1": "Fortress",
+            "inscription2": "Courage",
+            "effects": [
+                "Using a skill grants a 10 HP barrier that lasts for 1 second.\nTaking damage increases Physical Attack by 60% for 2 seconds.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/4/47/Architect%27s_Breastplate_Icon_Mini.png",
+            "id": 103
+        },
+        {
+            "name": "\n\t\t\t\t\tAuthentic Stone of Plague\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"The statue of a plague god carved by one of his followers in the past. It precisely cptures the god's image.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Poisoning",
+            "effects": [
+                "Poisoning an enemy increases Physical Attack by 25% for 10 seconds. (Stacks up to 125%)\nFor every 5 seconds, your next attack inflicts Poison.",
+                "When Stone of Plague reaches the final stage of the Masterpiece inscription it transforms into the Authentic Stone of Plague."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/75/Authentic_Stone_of_Plague_Icon_Mini.png",
+            "id": 104
+        },
+        {
+            "name": "\n\t\t\t\t\tBlood-Drinking Sword\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"I want... blood...\"",
+            "inscription1": "Arms",
+            "inscription2": "Excessive Bleeding",
+            "effects": [
+                "Bleeding increases Physical Attack by 1% (Stacks up to 50%)\nReaching the maximum limit for this effect increases Crit Rate by 20%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/6/6e/Blood-Drinking_Sword_Icon_Mini.png",
+            "id": 105
+        },
+        {
+            "name": "\n\t\t\t\t\tBlood-Drunk Sword\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"I am... full...\"",
+            "inscription1": "Arms",
+            "inscription2": "Excessive Bleeding",
+            "effects": [
+                "Increases Physical Attack by 50%.\nIncreases Crit Rate by 20%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/83/Blood-Drunk_Sword_Icon_Mini.png",
+            "id": 106
+        },
+        {
+            "name": "\n\t\t\t\t\tBlooming Blade Shards\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Terrible shards which inflict cuts that never heal. The blossoming image gained its beauty by getting drenched in blood.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Excessive Bleeding",
+            "effects": [
+                "Bleeding allows you to swing terrible blade shards with normal attacks for 4 seconds, dealing Physical Damage which has a 10% chance to inflict Bleed.",
+                "When Terrible Blade Shards reaches the Masterpiece's final inscription stage, it transforms into Blooming Blade Shards.\nThis item cannot be found in shops.\nThis item cannot be found in chests.\nThis item can only be obtained by having Terrible Blade Shards reach Masterpiece's final inscription stage."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/e/e0/Blooming_Blade_Shards_Icon_Mini.png",
+            "id": 107
+        },
+        {
+            "name": "\n\t\t\t\t\tBone of Courage\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Judging by its weight, I doubt this bone would float in water.\"",
+            "inscription1": "Bone",
+            "inscription2": "Courage",
+            "effects": [
+                "Every 5 seconds, your Physcial Attacks amplify Physical Damage by 20% for 1 second.\nBased on the number of Power Skulls owned, the amount of damage amplified increased to 40%/80%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d7/Bone_of_Courage_Icon_Mini.png",
+            "id": 108
+        },
+        {
+            "name": "\n\t\t\t\t\tBone of Mana\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"How rich must you be to use things like this?\"",
+            "inscription1": "Bone",
+            "inscription2": "Wisdom",
+            "effects": [
+                "When casting a skill, creates a mana storm that wraps around itself and deals Magic Damage.\nBased on the number of Balance type skulls owned, the damage and AoE of the mana storm increases by (20%/60%).",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/aa/Bone_of_Mana_Icon_Mini.png",
+            "id": 109
+        },
+        {
+            "name": "\n\t\t\t\t\tBone of Swiftness\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"This doesn't usually give me wings, but still it makes me feel as if I can fly.\"",
+            "inscription1": "Bone",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Normal attacks and Dash Attacks against enemies deal additional damage based on the higher Attack Power between Physical and Magic.\nAdditional damage is increased by 20%/60% based on the number of Speed Skulls owned.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/82/Bone_of_Swiftness_Icon_Mini.png",
+            "id": 110
+        },
+        {
+            "name": "\n\t\t\t\t\tCharred Jamadhar\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"It's quite simple to use-slash and burn.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Arson",
+            "effects": [
+                "Your normal attacks have a 10% chance to inflict Burn.\nInflicting Burn on a burning enemy deals additional Magic Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/74/Charred_Jamadhar_Icon_Mini.png",
+            "id": 111
+        },
+        {
+            "name": "\n\t\t\t\t\tChest of Flames\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A chest containing a scroll of pyromancy. It's too hot to open.\"",
+            "inscription1": "Artifact",
+            "inscription2": "Arson",
+            "effects": [
+                "Attacking a burning enemy creates a pillar of flame that deals Magic Damage to nearby enemies. (Cooldown: 2 seconds)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/3e/Chest_of_Flames_Icon_Mini.png",
+            "id": 112
+        },
+        {
+            "name": "\n\t\t\t\t\tClone Clone\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Why does it keep stamping twice? Why does it keep stamping twice?\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Random",
+            "effects": [
+                "Increases the number of all inscriptions by 2.\nIncreases Max HP by 30.\nThis item randonly gains 2 inscriptions of the same kind.",
+                "This item cannot be found in the shop.\nThis item cannot be found in chests.\nThis item can only be obtained through the Clone Stamp rolled with the Masterpiece Inscription and reaching the final inscription stage.\nYou cannot reroll the inscriptions by dropping the item (when swapping for another item).\nOnce this item is destroyed, you will have to find a new Clone Stamp with the Masterpiece Inscription and reaching the final inscription stage.\nTwo (2) Clone Clones, with the Sun and Moon inscriptions, will NOT fuse to produce Fulgent Dawn.\nPrince's Box with the  Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nDoubled Prince's Box with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Stamp with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Clone with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/3f/Clone_Clone_Icon_Mini.png",
+            "id": 113
+        },
+        {
+            "name": "\n\t\t\t\t\tClone Stamp\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Why does it keep stamping twice? Why does it keep stamping twice?\"",
+            "inscription1": "Random",
+            "inscription2": "Random",
+            "effects": [
+                "Increases Max HP by 30.\nIncreases Physical Attack and Magic Attack by 40%.\nThis item randonly gains 2 inscriptions of the same kind.",
+                "Destroying the item and later finding it in a chest or the Black Market will allow a reroll of the inscriptions.\nYou cannot reroll the inscriptions by dropping the item (when swapping for another item).\nTwo (2) Clone Stamps, with the Sun and Moon inscriptions, will NOT fuse to produce Fulgent Dawn.\nPrince's Box with the  Sun and Moon Inscription and any other item (Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nwith the Sun and Moon Inscription and any other item (, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Stamp with the Sun and Moon Inscription and any other item (Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Clone with the Sun and Moon Inscription and any other item (Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d2/Clone_Stamp_Icon_Mini.png",
+            "id": 114
+        },
+        {
+            "name": "\n\t\t\t\t\tContaminated Core\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"This is it! As long as we have this, the goddess will...!\"",
+            "inscription1": "Heritage",
+            "inscription2": "Poisoning",
+            "effects": [
+                "When entering a map increases damage received by 8% (Up to 40%) every 15 seconds.\nWhen entering a map increases Physical Attack by 30% (Up to 150%) every 15 seconds.\nThese effects reset when entering the next map.",
+                "This item is associated with Chimera.\nThis item can only be obtained from a Stage Chest Drop after defeating Chimera.\nThis item cannot be found in shops.\nThis item cannot be found in normal chests."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/f/fa/Contaminated_Core_Icon_Mini.png",
+            "id": 115
+        },
+        {
+            "name": "\n\t\t\t\t\tCowardly Bowmaster's Bow\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"'I'm not scared, just very cautious.' - Cowardly Sharpshooter Ironsnail.\"",
+            "inscription1": "Misfortune",
+            "inscription2": "Strike",
+            "effects": [
+                "Amplifies projectile damage by 40% when there are no enemies around.",
+                "This item's description makes a reference to Ironsnail, a Coward Sharpshooter that has yet to be seen in game."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/e/e9/Cowardly_Bowmaster%27s_Bow_Icon_Mini.png",
+            "id": 116
+        },
+        {
+            "name": "\n\t\t\t\t\tCretan Bull\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"An imitation of a Cretan bull known for its ferocity. Just looking at it makes me feel stronger.\"",
+            "inscription1": "Treasure",
+            "inscription2": "Chase",
+            "effects": [
+                "After using a Power Skull skill, dash to transform into a bull and deal Physical Damage with increased dash distance.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/b/b2/Cretan_Bull_Icon_Mini.png",
+            "id": 117
+        },
+        {
+            "name": "\n\t\t\t\t\tDark Priest Robe\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A robe containing the mana of 30 men who have turned their backs against the light.\"",
+            "inscription1": "Relic",
+            "inscription2": "Revenge",
+            "effects": [
+                "Gains a 30 HP barrier that lasts for 30 seconds when your HP is below 30. (Cooldown: 30 seconds)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/e/e4/Dark_Priest_Robe_Icon_Mini.png",
+            "id": 118
+        },
+        {
+            "name": "\n\t\t\t\t\tDemonomicon\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A book containing the noble code of law of the demons.\"",
+            "inscription1": "Artifact",
+            "inscription2": "Antique",
+            "effects": [
+                "Decreases swap cooldown by 0.5 seconds for each kill.\nIncreases Magic Attack by 55%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/8a/Demonomicon_Icon_Mini.png",
+            "id": 119
+        },
+        {
+            "name": "\n\t\t\t\t\tDiorite Circlet\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Power magical circlet imbued witht the strength of the fallen.\"",
+            "inscription1": "Heirloom",
+            "inscription2": "Heritage",
+            "effects": [
+                "Successful Quintessence attacks increase Magic Attack by 90% for 8 seconds.",
+                "Attacks from Raven Lord's summoned Raven Soldiers will activate this item's effects."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/7d/Diorite_Circlet_Icon_Mini.png",
+            "id": 120
+        },
+        {
+            "name": "\n\t\t\t\t\tExplosive Arrow\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Do not point this object at people or animals. Keep out of reach of children.\"",
+            "inscription1": "Misfortune",
+            "inscription2": "Brawl",
+            "effects": [
+                "Your projectiles explode on hit and deal Physical damage. (Cooldown: 2 seconds)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/b/b5/Explosive_Arrow_Icon_Mini.png",
+            "id": 121
+        },
+        {
+            "name": "\n\t\t\t\t\tFatal Sword\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Still kicking? I will make sure you are dead.\"",
+            "inscription1": "Arms",
+            "inscription2": "Poisoning",
+            "effects": [
+                "Poisoning an enemy creates a toxic orb.\nAfter 3 seconds, the orb shoots out spikes that deal Physical Damage and have 30% chance to Poison targets.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/2/2e/Fatal_Sword_Icon_Mini.png",
+            "id": 122
+        },
+        {
+            "name": "\n\t\t\t\t\tFire Spirit Salamander\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"The Salamander that once managed the Black Rock Volcano is forever trapped in Rustamilcon's ring.\"",
+            "inscription1": "Fairy Tale",
+            "inscription2": "Arson",
+            "effects": [
+                "Fire Spirit Salamander follows you and uses fire magic to deal Magic damage and Burn nearby enemies every 20 seconds.",
+                "This item is associated to Rustamilcon, an elementalist, that has yet to be seen in game.\nBlack Rock Volcano is an undisclosed/unreleased location."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/1/1b/Fire_Spirit_Salamander_Icon_Mini.png",
+            "id": 123
+        },
+        {
+            "name": "\n\t\t\t\t\tForbidden Sword\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A sword being contained by a powerful force. A slight tremble can be felt.\"",
+            "inscription1": "Arms",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Increases Physical Attack by 15%.\nWhen 300 enemies are killed, this item turns into the Evil Sword: Kirion.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/53/Forbidden_Sword_Icon_Mini.png",
+            "id": 124
+        },
+        {
+            "name": "\n\t\t\t\t\tFrost Giant's Leather\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"The leather of a giant who once inhabited cold regions. The cold would provide him peace of mind.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Absolute Zero",
+            "effects": [
+                "Using a skill grants you the frost giant's protection for 10 seconds. (Cooldown: 60 seconds)\nWhile active, you receive 30% less damage, receive a 5 HP barrier that lasts for 40 seconds every time you Freeze an enemy. (Stacks up to 20)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/5f/Frost_Giant%27s_Leather_Icon_Mini.png",
+            "id": 125
+        },
+        {
+            "name": "\n\t\t\t\t\tFrost Witch's Staff\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"The crazy witch would summon multiple hailstorms in a single day.\"",
+            "inscription1": "Artifact",
+            "inscription2": "Absolute Zero",
+            "effects": [
+                "Increase Magic Attack by 40% for every frozen enemy nearby. (Stacks up to 120%)",
+                "This item is associate with Naia the Frost Witch."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/1/12/Frost_Witch%27s_Staff_Icon_Mini.png",
+            "id": 126
+        },
+        {
+            "name": "\n\t\t\t\t\tGold Mane Rapier\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"It's quite simple to use-slash and burn.\"",
+            "inscription1": "Spoils",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Increases Attack Speed by 20%.\nEvery 3rd normal attack, casts Golden Wound on the nearest enemy, dealing Physical Damage.",
+                "This item is associated to the Leiana Sisters.\nThis item cannot be found in the shop.\nThis item cannot be found in normal chests.\nThis item can only be found in a Stage Boss Chest after defeating the Leiana Sisters."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/35/Gold_Mane_Rapier_Icon_Mini.png",
+            "id": 127
+        },
+        {
+            "name": "\n\t\t\t\t\tGrowing Volition\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Refined strength created by a strong will.\"",
+            "inscription1": "Antique",
+            "inscription2": "Strike",
+            "effects": [
+                "Concentrating grants a 10 HP barrier.\nDamage to the barrier increases Crit Rate by 50% for 2 seconds.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/7e/Growing_Volition_Icon_Mini.png",
+            "id": 128
+        },
+        {
+            "name": "\n\t\t\t\t\tGunpowder Sword\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"'At the time of purchase, they told me it would go boom boom when I swing it around.'-Adventurer Kaliban\"",
+            "inscription1": "Arms",
+            "inscription2": "Brawl",
+            "effects": [
+                "Critical hits cause an explosion that deals Physical Damage.",
+                "Adventurer Kaliban is an unrevealed character. It could potentially be a future Adventurer mini boss."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/85/Gunpowder_Sword_Icon_Mini.png",
+            "id": 129
+        },
+        {
+            "name": "\n\t\t\t\t\tHand of Glory\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"The owner of this enormous hand would grow more powerful with size.\"",
+            "inscription1": "Antique",
+            "inscription2": "Duel",
+            "effects": [
+                "Increases Physical Attack by 4% per 10 Max HP. (Stacks up to 120%)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/a0/Hand_of_Glory_Icon_Mini.png",
+            "id": 130
+        },
+        {
+            "name": "\n\t\t\t\t\tHeart of the Ascetic\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Guided by pain! Receiving the grace of light!\"",
+            "inscription1": "Relic",
+            "inscription2": "Revenge",
+            "effects": [
+                "Increases Max HP by 150.\nYour HP continuously drains when it at 50% or above."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/a6/Heart_of_the_Ascetic_Icon_Mini.png",
+            "id": 131
+        },
+        {
+            "name": "\n\t\t\t\t\tHero's Holy Sword\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"This explains why he charges at me every time he sees me!\"",
+            "inscription1": "Arms",
+            "inscription2": "Chase",
+            "effects": [
+                "Dashing increases Physical Attack by 100% for 2 seconds.",
+                "This item is associated with the Hero Apprentice Adventurer."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/55/Hero%27s_Holy_Sword_Icon_Mini.png",
+            "id": 132
+        },
+        {
+            "name": "\n\t\t\t\t\tHoly Footsteps\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"I followed his footsteps all the way here!\"",
+            "inscription1": "Relic",
+            "inscription2": "Chase",
+            "effects": [
+                "Dashing increases skill cooldown speed by 5% for 4 seconds. (Stacks up to 50%)\nReaching the maximum limit for this effect increases Magic Attack by 60%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/0c/Holy_Footsteps_Icon_Mini.png",
+            "id": 133
+        },
+        {
+            "name": "\n\t\t\t\t\tHunter's Wooden Longbow\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"The smaller crossbows can't compete with this gigantic longbow's destructive power.\"",
+            "inscription1": "Misfortune",
+            "inscription2": "Strike",
+            "effects": [
+                "Increases Crit Damage by 35%.",
+                "This item is associated to the Hunter Adventurer."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/58/Hunter%27s_Wooden_Longbow_Icon_Mini.png",
+            "id": 134
+        },
+        {
+            "name": "\n\t\t\t\t\tMage's Mana Bracelet\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A magic tool awarded to Carleon's most powerful mage.\"",
+            "inscription1": "Heirloom",
+            "inscription2": "Wisdom",
+            "effects": [
+                "Increases Skill Cooldown Speed by 120% for 10 seconds everytime 6 skills are used.",
+                "This item is associated with the Mage Adventurer."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/ac/Mage%27s_Mana_Bracelet_Icon_Mini.png",
+            "id": 135
+        },
+        {
+            "name": "\n\t\t\t\t\tMagic Pocket Watch\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Don't you think time is really flying by today?\"",
+            "inscription1": "Antique",
+            "inscription2": "Mutant",
+            "effects": [
+                "Increases Skill Cooldown Speed by 70%.\nWhen swapping, increases Concentration Speed by 100% for 12 seconds.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/7c/Magic_Pocket_Watch_Icon_Mini.png",
+            "id": 136
+        },
+        {
+            "name": "\n\t\t\t\t\tMana Eater\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A Jamadhar made out of a metal that stores mana.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "After using a skill, use Mana Eater to stab an enemy in front of you by performing a normal attack, dealing Physical Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/3d/Mana_Eater_Icon_Mini.png",
+            "id": 137
+        },
+        {
+            "name": "\n\t\t\t\t\tMana Gauntlets\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A set of magical tools that allows the wearer to draw mana from his body to his hands.\"",
+            "inscription1": "Artifact",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Normal attacks and Dash Attacks increase Magic Attack by 3% for 2 seconds. (Stacks up to 60%)\nReaching the maximum limit for this effect lets your normal attacks deal additional Magic Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/30/Mana_Gauntlets_Icon_Mini.png",
+            "id": 138
+        },
+        {
+            "name": "\n\t\t\t\t\tManatech Circulator\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A miraculous product that infinitelgoes on from 1.\"",
+            "inscription1": "Manatech",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Using Skills decauses all Skill Cooldown by 1 seconds every 4 seconds.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/0f/Manatech_Circulator_Icon_Mini.png",
+            "id": 139
+        },
+        {
+            "name": "\n\t\t\t\t\tManatech Cudgel\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A Manatech crystal which possesses a destructive power. But it's used just like any other cudgels.\"",
+            "inscription1": "Manatech",
+            "inscription2": "Strike",
+            "effects": [
+                "Normal attacks turn into Critical Hits for 3 seconds after 3 skills are used.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/f/f3/Manatech_Cudgel_Icon_Mini.png",
+            "id": 140
+        },
+        {
+            "name": "\n\t\t\t\t\tManatech Staff\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A staff that siphons mana from its surroundings.\"",
+            "inscription1": "Manatech",
+            "inscription2": "Misfortune",
+            "effects": [
+                "Using a skill increases Magic Attack by 10% for 8 seconds. (Stacks up to 60%)\nReaching the maximum limit for this effect increases Crit Rate by 20%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/e/ef/Manatech_Staff_Icon_Mini.png",
+            "id": 141
+        },
+        {
+            "name": "\n\t\t\t\t\tMaster Brawler\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A helm worn by a warrior who was strong enough to fight a hundred men.\"",
+            "inscription1": "Brawl",
+            "inscription2": "Execute",
+            "effects": [
+                "Increases Physical Attack by 25%.\nIncreases Magic Attack by 25%.\nThese effects are further increased by 55% each when you are near 4 or fewer enemies.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/c/c8/Master_Brawler_Icon_Mini.png",
+            "id": 142
+        },
+        {
+            "name": "\n\t\t\t\t\tMaster Fighter\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A helm worn by the champion of the Carleon Fighting Tournament.\"",
+            "inscription1": "Duel",
+            "inscription2": "Execute",
+            "effects": [
+                "Increase Physical Attack by 25%.\nIncrease Magic Attack by 25%.\nThese effects are further increased by 55% each when you are near 2 or fewer enemies.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/f/f7/Master_Fighter_Icon_Mini.png",
+            "id": 143
+        },
+        {
+            "name": "\n\t\t\t\t\tMedal Box\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Adventurers... why do they keep collecting these? Might as well do the same.\"",
+            "inscription1": "Treasure",
+            "inscription2": "Courage",
+            "effects": [
+                "When an adventurer is defeated, increase Physical Attack by 20%. (Stacks up to 140%)",
+                "The effect will only increase Physical Attack if you have the item in your inventory at the time of defeating an Adventurer.\nThis effect will not count Adventurers defeated before adding this item to your inventory."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/82/Medal_Box_Icon_Mini.png",
+            "id": 144
+        },
+        {
+            "name": "\n\t\t\t\t\tMithril Gear\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Protective gear forged from the strongest metals which hardens each time it is struck.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Chase",
+            "effects": [
+                "Dash attacks increase Physical Attack by 8% for 6 seconds. (Stacks up to 80%)\nReaching the maximum limit for this effect decreases damage taken by 20%.",
+                "When this item's reaches the final stage of the Masterpiece inscription, it transforms into the Absolute Mithril Gear."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/88/Mithril_Gear_Icon_Mini.png",
+            "id": 145
+        },
+        {
+            "name": "\n\t\t\t\t\tPriest's Staff\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Omnipotent Leonia, please protect me with your eternal light.\"",
+            "inscription1": "Relic",
+            "inscription2": "Antique",
+            "effects": [
+                "Slowly restores HP when current HP is at 30% or less.",
+                "This item is associated with the Priestess Adventurer."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d9/Priest%27s_Staff_Icon_Mini.png",
+            "id": 146
+        },
+        {
+            "name": "\n\t\t\t\t\tProof of Fellowship\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A forgotten doll that spent a lot of time with its sister when they were young.\"",
+            "inscription1": "Antique",
+            "inscription2": "Mutant",
+            "effects": [
+                "When swapping, increases Attack Speed by 6% for 12 seconds. (Up to 60%)\nWhen swapping, increased Crit Rate by 2% for 12 seconds. (Up to 20%)",
+                "This item cannot be found in shops.\nThis item cannot be found in normal chests.\nThis item can only be obtained from a Boss Stage Chest after defeating the Leiana Sisters."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/7/7f/Proof_of_Fellowship_Icon_Mini.png",
+            "id": 147
+        },
+        {
+            "name": "\n\t\t\t\t\tProphecies of Evil: Envy\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A forgotten doll that spent a lot of time with its sister when they were young.\"",
+            "inscription1": "Sin",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Physical and Magic Attack increase by 100% for 20 seconds upon entering the map.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/a1/Prophecies_of_Evil_Envy_Icon_Mini.png",
+            "id": 148
+        },
+        {
+            "name": "\n\t\t\t\t\tProphecies of Evil: Sloth\t\t\t\t",
+            "rarity": "",
+            "description": "",
+            "inscription1": "",
+            "inscription2": "",
+            "effects": [],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/5f/Prophecies_of_Evil_Sloth_Icon_Mini.png",
+            "id": 153
+        },
+        {
+            "name": "\n\t\t\t\t\tRear Blast\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A magic tool that uses every ounce of its user's mana for maximum effect.\"",
+            "inscription1": "Manatech",
+            "inscription2": "Execute",
+            "effects": [
+                "Successful item attacks increase Physical Attack by 90% for 3 seconds.",
+                "Only equipment items will trigger Rear Blast's effect.\nQuintessence items will not trigger Rear Blast's effect.\nProjectiles from Skull Skills will not trigger Rear Blast's effect."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/35/Rear_Blast_Icon_Mini.png",
+            "id": 155
+        },
+        {
+            "name": "\n\t\t\t\t\tRosary\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Don't look down and hold it tight as we descend.\"",
+            "inscription1": "Relic",
+            "inscription2": "Soar",
+            "effects": [
+                "Increases Physical Attack by 70%  while in midair.\nIncreases Magic Attack by 70% while in midair.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/91/Rosary_Icon_Mini.png",
+            "id": 156
+        },
+        {
+            "name": "\n\t\t\t\t\tSilence Sword\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"The ultimate assassin's blade that allows one to approach without sound. Even the body makes no sound when falling.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Duel",
+            "effects": [
+                "Amplifies damage dealt, to enemies, from behind by 25%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/e/e4/Silence_Sword_Icon_Mini.png",
+            "id": 157
+        },
+        {
+            "name": "\n\t\t\t\t\tStigma Leg\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A prosthetic leg that once belonged to a person who would label others until he lost a leg. His old habit never died, so he lived very busily for the rest of his days.\"",
+            "inscription1": "Duel",
+            "inscription2": "Chase",
+            "effects": [
+                "Leave a mark on the first enemy you collide with when dashing.\nDashing or using a skill deals additional Magic Damage to the marked enemy. (Cooldown: 2 seconds)\nYou cannot mark a second target while the first mark remains on someone.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/87/Stigma_Leg_Icon_Mini.png",
+            "id": 158
+        },
+        {
+            "name": "\n\t\t\t\t\tStone Mask\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"I forfeit my humanity! I will transcend it!\"",
+            "inscription1": "Treasure",
+            "inscription2": "Antique",
+            "effects": [
+                "Depending on the higher rarity of your two (2) currently held skulls, your Gold gain increases by (20% / 30% / 40% / 50%)",
+                "Having a Common Skull as the highest rarity will provide a 20% Gold increase.\nHaving a Rare Skull as the highest rarity will provide a 30% Gold increase.\nHaving a Unique Skull as the highest rarity will provide a 40% Gold increase.\nHaving a Legendary Skull as the highest rarity will provide a 50% Gold increase."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d0/Stone_Mask_Icon_Mini.png",
+            "id": 159
+        },
+        {
+            "name": "\n\t\t\t\t\tStone of the Heir\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A legendary stone that absorbs the mana of powerful enemies and transfers it to its master.\"",
+            "inscription1": "Heirloom",
+            "inscription2": "Wisdom",
+            "effects": [
+                "When a boss is defeated, increases Magic Attack by 30%. (Stacks up to 150%)",
+                "This item's effect will not count Bosses defeated before having the item in your inventory.\nThis item will only Increase Magic Attack if you have the item in your inventory at the time of defeating a Stage Boss.\nThe term 'Boss' refers to the stage bosses, Yggdrasil, Leiana Sisters, Chimera, St. Joan II, First Hero.\nThis item counts Yggdrasil as two(2) stages (First Stage Yggdrasil and Second Stage Raging Yggradil)\nThis item counts the Leiana Sisters will count as two(2) stacks. (First Stage with both sisters, and second stage with Dark Sister)\nThis item does NOT count St. Joan's first stage (enemy waves) as a stack.\nThis item counts the First Hero as Three(3) stacks. (First Stage with First Hero, Second Stage Gold First Hero, and Third Stage with the Defeated First Hero)"
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/2/29/Stone_of_the_Heir_Icon_Mini.png",
+            "id": 160
+        },
+        {
+            "name": "\n\t\t\t\t\tStone of Plague\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"The statue of a plague god carved by one of his followers in the past. The god did not seem to be very pleased with how it turned out.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Poisoning",
+            "effects": [
+                "Poisoning an enemy increases Physical Attack by 20% for 10 seconds. (Stacks up to 100%)",
+                "Reaching the final stage of Masterpiece inscription transforms this item into the Authentic Stone of Plague."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/8c/Stone_of_Plague_Icon_Mini.png",
+            "id": 161
+        },
+        {
+            "name": "\n\t\t\t\t\tTerrible Blade Shards\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Terrible shards which inflict cuts that never heal.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Excessive Bleeding",
+            "effects": [
+                "Bleeding allows you to swing terrible blade shards with normal attacks for 4 seconds, dealing Physical Damage.",
+                "When Terrible Blade Shards reaches the Masterpiece's final inscription stage, it transforms into Blooming Blade Shards."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/1/17/Terrible_Blade_Shards_Icon_Mini.png",
+            "id": 162
+        },
+        {
+            "name": "\n\t\t\t\t\tThief's Black Steel Dagger\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"Made out of light-absorbent black steel, this dagger is hardly visible in the dark.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Each attack increases Crit Rate by 2% for 2 seconds.\nThis effect can be stacked up to 20 times.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/02/Thief%27s_Black_Steel_Dagger_Icon_Mini.png",
+            "id": 163
+        },
+        {
+            "name": "\n\t\t\t\t\tVictory Baton\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"My turn will be the final nail in the coffin!\"",
+            "inscription1": "Execute",
+            "inscription2": "Mutant",
+            "effects": [
+                "Swapping increases Magic Attack by 70% for 4 seconds.\nSwapping increases Movement Speed by 50% for 4 seconds.\nDefeating an enemy while the effects are active resets their duration.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/9f/Victory_Baton_Icon_Mini.png",
+            "id": 164
+        },
+        {
+            "name": "\n\t\t\t\t\tWarrior's Steel Mace\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"This gigantic mace is believed to be the heaviest weapon in Carleon.\"",
+            "inscription1": "Arms",
+            "inscription2": "Dizziness",
+            "effects": [
+                "Stunning an enemy deals additional Physical Damage and increases Physical Attack by 40% for 10 seconds.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/2/24/Warrior%27s_Steel_Mace_Icon_Mini.png",
+            "id": 165
+        },
+        {
+            "name": "\n\t\t\t\t\tWater Spirit Undine\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"The Undine that once guarded Elemental Lake is forever trapped in Rustamilcon's ring.\"",
+            "inscription1": "Fairy Tale",
+            "inscription2": "Absolute Zero",
+            "effects": [
+                "Water Spirit Undine follows you and launches ice shards to deal Magic Damage and Freeze a random nearby enemy every 25 seconds.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/1/17/Water_Spirit_Undine_Icon_Mini.png",
+            "id": 166
+        },
+        {
+            "name": "\n\t\t\t\t\tWing Armor\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A suit of armor worn by someone who would cut through the skies to bring victory. They say he was indominable while airborne.\"",
+            "inscription1": "Fortress",
+            "inscription2": "Soar",
+            "effects": [
+                "While in midair Damage is reduced by 35%\nWhile in midair, Cooldown Speed is increased by 50%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/a6/Wing_Armor_Icon_Mini.png",
+            "id": 167
+        },
+        {
+            "name": "\n\t\t\t\t\tWitches' Brew\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A tincture that supposedly pushes one's abilities to the extreme when imbibed.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Mutant",
+            "effects": [
+                "Swapping increases Attack Speed by 120%.\nSwapping increases Movement Speed by 120%.\nThese effects dissipate over 5 seconds.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/b/bb/Witches%27_Brew_Icon_Mini.png",
+            "id": 168
+        },
+        {
+            "name": "\n\t\t\t\t\tWood Statue\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A wooden statue everyone holds dear. Nobody knows what the big deal is.\"",
+            "inscription1": "Heirloom",
+            "inscription2": "Masterpiece",
+            "effects": [
+                "Increases Skill Cooldown Speed by 100%\nTaking damage nullifies this item's effect for 10 seconds.",
+                "Reaching the final inscription stage of Masterpiece, transforms this item into the Wood Statue of Horror."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/f/fa/Wood_Statue_Icon_Mini.png",
+            "id": 169
+        },
+        {
+            "name": "\n\t\t\t\t\tWood Statue of Horror\t\t\t\t",
+            "rarity": "Unique",
+            "description": "\"A wooden statue everyone holds dear. Those who saw its true form went insane.\"",
+            "inscription1": "Heirloom",
+            "inscription2": "Masterpiece",
+            "effects": [
+                "Increases Skill Cooldown Speed by 120%\nIncreases Attack Speed by 30%.\nTaking damage nullifies this item's effect for 10 seconds.",
+                "This item cannot be found in shops.\nThis item cannot be found in chests.\nThis Wood Statue of Horror can only be obtained when Wood Statue reaches the final inscription stage of Masterpiece."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/4/4a/Wood_Statue_of_Horror_Icon_Mini.png",
+            "id": 170
+        },
+        {
+            "name": "\n\t\t\t\t\tApproaching Death\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"A Legendary Dagger that chases and eliminates its target.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Poisoning",
+            "effects": [
+                "Amplifies Damage to Poisoned enemies by 30%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/9f/Approaching_Death_Icon_Mini.png",
+            "id": 171
+        },
+        {
+            "name": "\n\t\t\t\t\tArmor of Fear\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"Fear is the root of all superstitions, and one of the roots of cruelty.\"",
+            "inscription1": "Fortress",
+            "inscription2": "Dizziness",
+            "effects": [
+                "Creates a shockwave at the end of a stun duration, dealing Fixed Damage.\nThe shockwave's damage is proportional to the damage dealt to the stunned enemy.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/5a/Armor_of_Fear_Icon_Mini.png",
+            "id": 172
+        },
+        {
+            "name": "\n\t\t\t\t\tBloody Crown of Thorns\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"A Legendary wreath with restored colors. The successors' blood will be preserved forever.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Misfortune",
+            "effects": [
+                "Critical hits conjures spikes that deal additional Physical Damage to nearby enemies. (Cooldown: 1 second)\nEach subsequent critical hit performed within 5 seconds after the last, amplifies the Physical Damage of the spike by 10%. (Up to 120%)",
+                "This item cannot be found in shops.\nThis item cannot be found in chests.\nThis item can only be obtained by reaching Masterpiece's final inscription stage while having Crown of Thorns in your inventory."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/dc/Bloody_Crown_of_Thorns_Icon_Mini.png",
+            "id": 173
+        },
+        {
+            "name": "\n\t\t\t\t\tChimera's Poison Fang\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"The foul-smelling fang of a chimera. It's still frothing.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Poisoning",
+            "effects": [
+                "Poisoned enemies at 20% HP or below die immediately. (10% for adventurers and bosses)",
+                "This item is associated to the Stage 3 Boss, Chimera.\nThis item cannot be found in shops.\nThis item cannot be found in normal chests.\nChimera's Poison Fang can only be obtained, from a Stage Boss Chest, after defeating Chimera."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/aa/Chimera%27s_Poison_Fang_Icon_Mini.png",
+            "id": 174
+        },
+        {
+            "name": "\n\t\t\t\t\tCrown of Thorns\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"A Legendary wreath passed down through multiple generations. It is said to contain the power of all successors.\"",
+            "inscription1": "Masterpiece",
+            "inscription2": "Misfortune",
+            "effects": [
+                "Critical hits deal additional Physical Damage. (Cooldown: 1 second)\nEach subsequent critical hit performed within 5 seconds after the last, amplifies the Physical Damage bonus by 10%. (Up to 80%)",
+                "Reaching the final inscription stage of Masterpiece, will transform this item into the Bloody Crown of Thorns."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/59/Crown_of_Thorns_Icon_Mini.png",
+            "id": 175
+        },
+        {
+            "name": "\n\t\t\t\t\tCursed Live Embers\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"A vessel that holds cursed flames that cannot be quenched\"",
+            "inscription1": "Heirloom",
+            "inscription2": "Arson",
+            "effects": [
+                "Embers explode at the end of a Burn duration, dealing Magic Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/3/30/Cursed_Live_Embers_Icon_Mini.png",
+            "id": 176
+        },
+        {
+            "name": "\n\t\t\t\t\tDark Spirit Shade\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"The Foolish Elementalist Rustamilcon went insane when he realized, after ruining the world, that he was tricked by the first Shade he'd sealed.\"",
+            "inscription1": "Fairy Tale",
+            "inscription2": "Brawl",
+            "effects": [
+                "Invokes an assault of darkness against a random nearby enemy every 18 seconds, dealing Magic Damage.",
+                "All the Spirits are associated to Rustimilcon, an Elementalist, who has yet to be seen in game.\n'Shadow Spirit Death' transforms into 'Dark Spirit Shade' when you have 'Light Spirit Lou' is in your possession."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/0f/Dark_Spirit_Shade_Icon_Mini.png",
+            "id": 177
+        },
+        {
+            "name": "\n\t\t\t\t\tDawn of the Argent Moon\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"Two moons, and the argent light that glimmers amidst the chaos.\"",
+            "inscription1": "Artifact",
+            "inscription2": "Artifact",
+            "effects": [
+                "Increase Magic Attack by 100%.\nAttacking an enemy unleashes an argent light of dawn which deals Magic Damage to nearby enemies. (Cooldown: 50 seconds)",
+                "This item cannot be found in shops.\nThis item cannot be found in chests.\nDawn of the Argent Moon can only be obtained by having two Lunar Rings in your inventory.\nThe two Lunar Rings fuse together to produce Dawn of the Argent Moon and clear up 1 slot in your inventory.\nPrince's Box with the  Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Dawn of the Argent Moon.\nDoubled Prince's Box with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Dawn of the Argent Moon.\nClone Stamp with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Dawn of the Argent Moon.\nClone Clone with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Dawn of the Argent Moon."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/c/ce/Dawn_of_the_Argent_Moon_Icon_Mini.png",
+            "id": 178
+        },
+        {
+            "name": "\n\t\t\t\t\tDawn of the Crimson Sun\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"Two suns, and the crimson light of dawn that radiates through the ruins.\"",
+            "inscription1": "Arms",
+            "inscription2": "Arms",
+            "effects": [
+                "Increase Physical Attack by 100%.\nAttacking an enemy unleashes a crimson light of dawn which deals Physical Damage to nearby enemies. (Cooldown: 50 seconds)",
+                "This item cannot be found in shops.\nThis item cannot be found in chests.\nDawn of the Crimson Sun can only be obtained by having two Solar Sword in your inventory.\nThe two Solar Swords fuse together to produce Dawn of the Crimson Sun and clear up 1 slot in your inventory.\nPrince's Box with the  Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Dawn of the Crimson Sun.\nDoubled Prince's Box with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Dawn of the Crimson Sun.\nClone Stamp with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Dawn of the Crimson Sun.\nClone Clone with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Dawn of the Crimson Sun."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/6/65/Dawn_of_the_Crimson_Sun_Icon_Mini.png",
+            "id": 179
+        },
+        {
+            "name": "\n\t\t\t\t\tDoomsday\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"There is no such thing as salvation. When the day comes, everyone will be destroyed.\"",
+            "inscription1": "Brawl",
+            "inscription2": "Execute",
+            "effects": [
+                "Creates an Apocalypse every 44 seconds.\nApocalypse: reduces all skill cooldowns by 5 seconds\nTriggers an explosion after 11 seconds, dealing Fixed Damage.\nThe explosion damage is proportional to Physical Damage dealt to enemies between the Apocalypse and the explosion.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/9/9e/Doomsday_Icon_Mini.png",
+            "id": 180
+        },
+        {
+            "name": "\n\t\t\t\t\tEvil Sword: Kirion\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"A cursed sword that absorbs life force. Cannot be wielded by those who bleed.\"",
+            "inscription1": "Arms",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Increases Physical Attack by 60%.\nWhen attacking with normal and dash attacks, performs a powerful slash, dealing Physical Damage.",
+                "This item cannot be found in shops.\nThis item cannot be found in chests.\nEvil Sword: Kirion can only be obtained by killing 300 enemies after adding the Forbidden Sword to your inventory."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/00/Evil_Sword_Kirion_Icon_Mini.png",
+            "id": 181
+        },
+        {
+            "name": "\n\t\t\t\t\tFulgent Dawn\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"Wait for the promised victory, as the dawn breaks.\"",
+            "inscription1": "Arms",
+            "inscription2": "Artifact",
+            "effects": [
+                "Increase Physical Attack by 80%\nIncrease Magic Attack by 80%.\nAttacking an enemy unleases Light of Dawn dealing damage to nearby enemies based on the higher Attack Power between Physical and Magic. (Cooldown: 50 seconds)",
+                "This item cannot be found in shops.\nThis item cannot be found in chests.\nFulgent Dawn can only be obtained by having the Solar Sword and Lunar Ring in your inventory.\nThe Solar Sword and Lunar Ring fuse together and transform into Fulgent Dawn, clearing up one (1) item slot.\nPrince's Box with the  Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nDoubled Prince's Box with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Stamp with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn.\nClone Clone with the Sun and Moon Inscription and any other item (Doubled Prince's Box, Prince's Box, Lunar Ring, Solar Sword) will NOT produce Fulgent Dawn."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/0/0d/Fulgent_Dawn_Icon_Mini.png",
+            "id": 182
+        },
+        {
+            "name": "\n\t\t\t\t\tGlacier Breaker\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"I! Hate! Ice! Break! Them! All!\"",
+            "inscription1": "Execute",
+            "inscription2": "Absolute Zero",
+            "effects": [
+                "Amplifies Damage to Frozen enemies by 30%.\nDamaing a Frozen enemy deals additional Magic Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/db/Glacier_Breaker_Icon_Mini.png",
+            "id": 183
+        },
+        {
+            "name": "\n\t\t\t\t\tHope Slasher\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"Why does everyone believe that they will survive?\"",
+            "inscription1": "Arms",
+            "inscription2": "Courage",
+            "effects": [
+                "Increase Physical Attack by 60%.\nBased on the Physical Damage inflicted on enemies, additionally increases Physical Attack by up to 60% for 5 seconds.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/1/1b/Hope_Slasher_Icon_Mini.png",
+            "id": 184
+        },
+        {
+            "name": "\n\t\t\t\t\tInfinite Bone\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"This is the perfect container for the valuable scrolls from the witch.\"",
+            "inscription1": "Bone",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Skills creaste a 30% chance of resetting their cooldown when used.",
+                "This item is associated to the Witch."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/2/28/Infinite_Bone_Icon_Mini.png",
+            "id": 185
+        },
+        {
+            "name": "\n\t\t\t\t\tLight Spirit Lou\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"A Light Spirit who remained loyal to the Foolish Elementalist Rustamilcon to the end.\"",
+            "inscription1": "Fairy Tale",
+            "inscription2": "Wisdom",
+            "effects": [
+                "Light Spirit Lou follows you and calls down a barrage of light to a random nearby enemy every 18 seconds, dealing Magic Damage.",
+                "All the Spirits are associated to Rustimilcon, an Elementalist, who has yet to be seen in game.\n'Shadow Spirit Death' transforms into 'Dark Spirit Shade' when you have 'Light Spirit Lou' is in your possession."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/1/19/Light_Spirit_Lou_Icon_Mini.png",
+            "id": 186
+        },
+        {
+            "name": "\n\t\t\t\t\tMane of the Beast King\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"In the pitch black darkness, a flowing crimson mane of fear.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Chase",
+            "effects": [
+                "Enemies you dash into receive a mark.\nAn attack made against a marked enemy turns into a Critical Hit, dealing Physical Damage.\nThe mark disappears after hit.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/85/Mane_of_the_Beast_King_Icon_Mini.png",
+            "id": 187
+        },
+        {
+            "name": "\n\t\t\t\t\tMiracle Grail\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"A Legendary Dagger that chases and eliminates its target.\"",
+            "inscription1": "Relic",
+            "inscription2": "Excessive Bleeding",
+            "effects": [
+                "Amplify damage by 400% the 3rd time Bleed is applied.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/6/6a/Miracle_Grail_Icon_Mini.png",
+            "id": 188
+        },
+        {
+            "name": "\n\t\t\t\t\tMultidimensional Prism\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"A manatech crystal which harnesses the power of dimensions by dispersing light.\"",
+            "inscription1": "Manatech",
+            "inscription2": "Mutant",
+            "effects": [
+                "Swapping summons a multidimensional prism. (Cooldown: 30 seconds)\nThe prism sprays lasers nearby and explodes, dealing Physical Damage and drops 6 Manatech conponents.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/f/f1/Multidimensional_Prism_Icon_Mini.png",
+            "id": 189
+        },
+        {
+            "name": "\n\t\t\t\t\tNether Mana Suppressor\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"Do not use magic in this area. Even the suppressor won't last much lo-\"",
+            "inscription1": "Artifact",
+            "inscription2": "Wisdom",
+            "effects": [
+                "Increases Magic Attack by 60%.\nFor every 10% increase in Skill Cooldown Speed, additionally increases Magic Attack by 6% (Max 60%)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/6/6c/Nether_Mana_Suppressor_Icon_Mini.png",
+            "id": 190
+        },
+        {
+            "name": "\n\t\t\t\t\tPain & Despair\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"The two glimmering swords, they sparkled as if in warning that they would butcher you.\"",
+            "inscription1": "Hidden Blade",
+            "inscription2": "Rapidity",
+            "effects": [
+                "Increases Attack Speed by 50%.\nFor every normal attack, skill, or dash attack, increases Attack Speed by 2% and Movement Speed by 1%. (Max 40% and 20% respectively)",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/6/63/Pain_%26_Despair_Icon_Mini.png",
+            "id": 191
+        },
+        {
+            "name": "\n\t\t\t\t\tPot of Greed\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"The original owner must've been terrible. it's full of greed.\"",
+            "inscription1": "Treasure",
+            "inscription2": "Antique",
+            "effects": [
+                "Each Legendary Skull, Legendary Quintessence, and Legendary Item increases Physical Attack and Magic Attack by 30%. (Stacks up to 120%)\nReach the maximum limit for this effect grants you 1 random Legendary item.\nPurchasing the Pot of Greed will spawn an additional random equipment item.",
+                "Pot of Greed is a reference to the Pot of Greed card from the Yu-Gi-Oh! trading card game.\nThe original owner of the Pot of Greed is Upstart Goblin, a character depicted in various cards from the Yu-Gi-Oh! card game.\nSee: Pot of Greed origin story"
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/a/af/Pot_of_Greed_Icon_Mini.png",
+            "id": 192
+        },
+        {
+            "name": "\n\t\t\t\t\tRaven Monarch's Feather\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"The principle and material densities of two different world generate a vacuum when they collide.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Mutant",
+            "effects": [
+                "When swapping, creates a giant vortex that pulls enemies toward its center and deals Magic Damage.",
+                "This item is associated to the Raven Lord Quintessence."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/c/ce/Raven_Monarch%27s_Feather_Icon_Mini.png",
+            "id": 193
+        },
+        {
+            "name": "\n\t\t\t\t\tSylphid Wings\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"Torn wings of a fairy who is believed to have secluded herself from the rest of the world.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Soar",
+            "effects": [
+                "Increases midair dash distance and cooldown speed by 50%.\n10 midair dashes release blades of wind that deal Magic Damage.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/df/Sylphid_Wings_Icon_Mini.png",
+            "id": 194
+        },
+        {
+            "name": "\n\t\t\t\t\tThe Ring\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"One Ring to rule them all.\"",
+            "inscription1": "Treasure",
+            "inscription2": "Mutant",
+            "effects": [
+                "Increases Physical Attack by 40%.\nIncreases Magic Attack by 40%.\nIncreases Attack Speed by 30%.\nIncreases Crit Rate by 10%.\nIncreases Skill Cooldown Speed by 50%.\nIncreases Max HP by 50.",
+                "This item is a reference to the One Ring from the Lord of The Rings."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/e/ea/The_Ring_Icon_Mini.png",
+            "id": 201
+        },
+        {
+            "name": "\n\t\t\t\t\tTorn Voodoo Doll\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"A doll that's torn and has lost its power. The curse is gone.\"",
+            "inscription1": "Artifact",
+            "inscription2": "Revenge",
+            "effects": [
+                "Increases Magic Attack by 60%.",
+                "This item cannot be found in shops.\nThis item cannot be found in chest.\nTorn Voodo Doll can only be obtained after triggering the effect from Voodoo Doll."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/8/8b/Torn_Voodoo_Doll_Icon_Mini.png",
+            "id": 202
+        },
+        {
+            "name": "\n\t\t\t\t\tVeiled Mask\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"An inscrutable mask that grants immense power in exchange for eyes.\"",
+            "inscription1": "Duel",
+            "inscription2": "Strike",
+            "effects": [
+                "Decreases Crit Rate by 30%.\nIncreases Crit Damage by 70%.",
+                ""
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/d1/Veiled_Mask_Icon_Mini.png",
+            "id": 203
+        },
+        {
+            "name": "\n\t\t\t\t\tVoodoo Doll\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"Oh cursed one, you will wander the afterlife for eternity, for you cannot die.\"",
+            "inscription1": "Artifact",
+            "inscription2": "Revenge",
+            "effects": [
+                "Taking a fatal blow restores 40 HP and destroys the Voodoo Doll.",
+                "After triggering the Voodoo Doll's effect and getting destroyed, it transforms into the Torn Voodoo Doll.\nThis item's effect will trigger before the effect from Reassemble, a legendary Witch Trait,  triggers."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/5/57/Voodoo_Doll_Icon_Mini.png",
+            "id": 204
+        },
+        {
+            "name": "\n\t\t\t\t\tWorld Tree Seed\t\t\t\t",
+            "rarity": "Legendary",
+            "description": "\"Nature itself that laid the foundation of the forest.\"",
+            "inscription1": "Heritage",
+            "inscription2": "Mana Cycle",
+            "effects": [
+                "Increases Physical Attack and Magic Attack by 40%.\nSwapping summons a World Tree. (Cooldown: 60 Seconds)\nThe World Tree lasts for 15 seconds.\nStanding near the World Tree increases Physical Attack and Magic Attack by 60%.\nStanding near the World Tree reduces damage taken by 20%.",
+                "This item cannot be found in shops.\nThis item cannot be found in chests.\nWorld Tree Seed can only be obtained by healing 300 points of HP after adding the Unknown Seed to your inventory.\nThis item is associated to the Stage 1 Boss, Yggdrasil."
+            ],
+            "img": "https://static.wikia.nocookie.net/skul/images/d/de/World_Tree_Seed_Icon_Mini.png",
+            "id": 205
+        }
+    ]
+}

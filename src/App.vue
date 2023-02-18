@@ -1,26 +1,54 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <SiteDescription />
+  <InscriptionsMenu :slots="slots"/>
+  <ItemsInventory @slots-change="inscriptionsUpdate"/>
+  <ItemsList />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ItemsInventory from './components/ItemsInventory.vue';
+import ItemsList from './components/ItemsList.vue';
+import SiteDescription from './components/SiteDescription.vue';
+import InscriptionsMenu from './components/InscriptionsMenu.vue';
 
 export default {
   name: 'App',
+  data() {
+    return {
+      slots: {}
+    }
+  },
   components: {
-    HelloWorld
+    ItemsInventory,
+    ItemsList,
+    SiteDescription,
+    InscriptionsMenu
+  }, 
+  methods: {
+    inscriptionsUpdate(event) {
+      console.log(event, 'aa')
+      this.slots = event.slots
+    }
   }
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
+  @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: 'VT323', monospace;
+  }
+
+  a {
+    color: #be3cfd;
+  }
+
+  body {
+    background-color: #1f0c33;
+  }
+
 </style>
